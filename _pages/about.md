@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-We study eye movements and vision at University of California, Berkeley. <image style="float:right" src="images/icon.gif">
+We study eye movements and vision at University of California, Berkeley. <image style="float:right" src="images/Icon.gif">
 
 Principal Investigator: Jorge Otero-Millan
 
