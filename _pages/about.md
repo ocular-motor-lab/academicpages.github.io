@@ -32,3 +32,6 @@ Precisely and accurately measuring eye movements is critical for many fields of 
 Eye movements for diagnosis
 ------
 Disorders affecting vision, cognition, motor control, or our balance sensation will cause some abnormality in the eye movements of the patient. Eye movement recording capabilities are becoming ubiquitous on smartphones or headsets for virtual or augmented reality. This presents a huge opportunity to help diagnose or triage patients wherever they are. We want to combine our knowledge of ocular motor control and eye movement recording methods to best define what tests and features can help us diagnose the different disorders.
+
+
+
