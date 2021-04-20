@@ -19,7 +19,7 @@ Research topics
 
 Ocular motor control
 ------
-The ocular motor system is a beautiful model to study the brain. It contains examples of highly compartmentalized functions like the vestibular ocular reflex but also widespread networks that collaborate to decide where to look next or follow a moving target. We are interested in understanding how we move our eyes and why we do it the way we do it.<image style="float:right" src="images/Icon.gif"/>
+<image style="float:right" src="images/Icon.gif"/>The ocular motor system is a beautiful model to study the brain. It contains examples of highly compartmentalized functions like the vestibular ocular reflex but also widespread networks that collaborate to decide where to look next or follow a moving target. We are interested in understanding how we move our eyes and why we do it the way we do it.
 
 Vision while mnoving
 ------
