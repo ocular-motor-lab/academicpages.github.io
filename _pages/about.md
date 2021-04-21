@@ -10,7 +10,6 @@ redirect_from:
 
 We study eye movements and vision at University of California, Berkeley. 
 
-Principal Investigator: Jorge Otero-Millan
 
 ![OMlab at the Berkeley Marina](images/labmarina.jpg)
 
