@@ -25,7 +25,7 @@ for i=1:3%height(papers)
 %         
 %         };
 
-title = strrep(papers.Title{3},'“','');
+title = strrep(papers.Title{i},'“','');
 title = strrep(title,'”','');
 
   lines ={
