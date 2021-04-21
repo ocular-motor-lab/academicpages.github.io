@@ -3,7 +3,7 @@ papers = readtable('Publication pipeline 29c020d9669848ab978c1247833d386f.csv');
 papers.Status = categorical(papers.Status);
 papers(papers.Status ~= 'Published ',:) = [];
 
-for i=1:height(papers)
+for i=1:3%height(papers)
     i
     lines ={
         '---'
