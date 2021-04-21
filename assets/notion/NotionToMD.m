@@ -30,6 +30,8 @@ title = strrep(title,'”','');
 
 citation = strrep(papers.Citation{i},'''','');
 
+authors = strrep(papers.AuthorsText{i},'ñ','n');
+
   lines ={
         '---'
         ['title: "' title '"']
@@ -40,7 +42,7 @@ citation = strrep(papers.Citation{i},'''','');
         ['venue: ''' papers.Journal_Book{i} '''']
         'paperurl: ''http://academicpages.github.io/files/paper1.pdf'''
         ['citation: ''' 'a' '''']
-        ['authors: ''' papers.AuthorsText{i} '''']
+        ['authors: ''' authors '''']
         ['year: ''' num2str(papers.Year(i)) '''']
         '---'
         'This paper is about the number 1. The number 2 is left for future work.'
