@@ -41,7 +41,7 @@ citation = strrep(papers.Citation{i},'''','');
         'paperurl: ''http://academicpages.github.io/files/paper1.pdf'''
         ['citation: ''' 'a' '''']
         ['authors: ''' 'b' '''']
-        ['year: ''' 'c' '''']
+        ['year: ''' num2str(papers.Year(i)) '''']
         '---'
         'This paper is about the number 1. The number 2 is left for future work.'
         ''
