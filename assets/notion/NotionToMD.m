@@ -28,6 +28,8 @@ for i=1:height(papers)
 title = strrep(papers.Title{i},'“','');
 title = strrep(title,'”','');
 
+citation = strrep(papers.Citation{i},'''','');
+
   lines ={
         '---'
         ['title: "' title '"']
@@ -35,9 +37,9 @@ title = strrep(title,'”','');
         'permalink: /publication/2009-10-01-paper-title-number-1'
         'excerpt: ''This paper is about the number 1. The number 2 is left for future work.'''
         ['date: ' papers.PublicationDate{i}]
-        'venue: ''Journal 1'''
+        ['venue: ''' papers.Journal_Book{i} '''']
         'paperurl: ''http://academicpages.github.io/files/paper1.pdf'''
-%         ['citation: ''' papers.Citation{i} '''']
+%         ['citation: ''' citation '''']
         ['authors: ''' papers.AuthorsText{i} '''']
         ['year: ''' num2str(papers.Year(i)) '''']
         '---'
