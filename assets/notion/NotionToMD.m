@@ -37,7 +37,7 @@ title = strrep(title,'”','');
         ['date: ' papers.PublicationDate{i}]
         'venue: ''Journal 1'''
         'paperurl: ''http://academicpages.github.io/files/paper1.pdf'''
-        ['citation: ''' papers.Citation{i} '''']
+%         ['citation: ''' papers.Citation{i} '''']
         ['authors: ''' papers.AuthorsText{i} '''']
         ['year: ''' num2str(papers.Year(i)) '''']
         '---'
