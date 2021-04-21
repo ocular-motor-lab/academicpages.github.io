@@ -12,7 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<!-- <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
@@ -56,7 +56,7 @@
     {% endif %}
 
   </article>
-</div>
+</div> -->
 
 <div class="" role="button" tabindex="0" style="user-select: none; transition: background 20ms ease-in 0s; cursor: pointer; width: 100%; display: flex; align-items: center; padding-right: 4px;">
 	<!-- <div class="notion-record-icon notranslate" role="button" aria-disabled="false" tabindex="0" style="user-select: none; transition: background 20ms ease-in 0s; cursor: pointer; display: flex; align-items: center; justify-content: center; height: 22px; width: 22px; border-radius: 3px; flex-shrink: 0; margin-left: 2px; margin-right: 6px;">'
@@ -67,18 +67,18 @@
 		</svg>'
 	</div> -->'
 	<div style="display: flex; margin-right: auto; min-width: 240px;">
-		<div class="notranslate" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-weight: 500; border-bottom: 1px solid rgb(223, 223, 222); line-height: 1.3;">Automatic quick-phase detection in bedside recordings from patients with acute dizziness and nystagmus</div>
+		<div class="notranslate" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-weight: 500; border-bottom: 1px solid rgb(223, 223, 222); line-height: 1.3;">{{ title }}</div>
 	</div>'
 	<div style="display: flex; align-items: center; font-size: 14px; margin-left: 14px; margin-right: 0px; min-width: 20px; height: 0px; flex-shrink: 0;">
 		<div style="display: flex; min-width: 0px; margin-right: -6px;">
 			<div style="display: flex; align-items: center; flex-shrink: 1; min-width: 0px; height: 18px; border-radius: 3px; padding-left: 8px; padding-right: 8px; font-size: 14px; line-height: 120%; color: rgb(55, 53, 47); background: rgba(206, 205, 202, 0.5); margin: 0px 6px 0px 0px;">
-				<div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">ETRA</div>
+				<div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{ post.venue }}</div>
 			</div>
 		</div>
 	</div>
 	<div style="display: flex; align-items: center; font-size: 14px; margin-left: 14px; margin-right: 0px; min-width: 20px; height: 0px;">
 		<div style="max-width: 180px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-			<span style="line-height: 1.2; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Punugati, Sai A, Tian, Jing, Otero-Millan, Jorge</span>
+			<span style="line-height: 1.2; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{ post.authors }} </span>
 		</div>
 	</div>
 	<div style="display: flex; align-items: center; font-size: 14px; margin-left: 14px; margin-right: 0px; min-width: 20px; height: 0px; flex-shrink: 0;">
