@@ -215,7 +215,7 @@ defaults:
   # _people
   - scope:
       path: ""
-      type: pages
+      type: people
     values:
       layout: single
       author_profile: true
