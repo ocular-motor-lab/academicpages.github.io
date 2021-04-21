@@ -39,7 +39,7 @@ citation = strrep(papers.Citation{i},'''','');
         ['date: ' papers.PublicationDate{i}]
         ['venue: ''' papers.Journal_Book{i} '''']
         'paperurl: ''http://academicpages.github.io/files/paper1.pdf'''
-%         ['citation: ''' citation '''']
+        ['citation: ''' 'a' '''']
         ['authors: ''' papers.AuthorsText{i} '''']
         ['year: ''' num2str(papers.Year(i)) '''']
         '---'
