@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign pbus = site.publications | sort: 'date' %}
+{% assign pbus = site.publications | sort: 'year' %}
 
 
 {% for post in pbus reversed %}
