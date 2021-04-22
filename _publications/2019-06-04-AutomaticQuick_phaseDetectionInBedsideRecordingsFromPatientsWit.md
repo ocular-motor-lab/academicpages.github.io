@@ -9,7 +9,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'a'
 authors: 'Punugati, Tian & Otero-Millan'
 year: '2020'
-coloryear: 11,110,153
+coloryear: 0,135,107,0.2
 ---
 This paper is about the number 1. The number 2 is left for future work.
 

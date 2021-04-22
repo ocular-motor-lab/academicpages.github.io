@@ -9,7 +9,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'a'
 authors: 'Otero-Millan, Zee, Schubert, Roberts & Ward'
 year: '2017'
-coloryear: 11,110,153
+coloryear: 140,46,0,0.2
 ---
 This paper is about the number 1. The number 2 is left for future work.
 

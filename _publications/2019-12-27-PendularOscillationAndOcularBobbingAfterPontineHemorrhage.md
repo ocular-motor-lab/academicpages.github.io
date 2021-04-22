@@ -9,7 +9,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'a'
 authors: 'Chang, Gold, Otero-Millan, Huang & Zee'
 year: '2019'
-coloryear: 245,93,0,0.2
+coloryear: 233,168,0,0.2
 ---
 This paper is about the number 1. The number 2 is left for future work.
 

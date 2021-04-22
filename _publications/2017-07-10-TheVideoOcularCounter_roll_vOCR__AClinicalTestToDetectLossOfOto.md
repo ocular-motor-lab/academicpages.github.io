@@ -9,7 +9,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'a'
 authors: 'Otero-Millan, Trevino, Winnick, Zee, Carey & Kheradmand'
 year: '2017'
-coloryear: 155,154,151,0.4
+coloryear: 140,46,0,0.2
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
