@@ -1,5 +1,5 @@
 ---
-title: "Microsaccades and blinks trigger illusory rotation in the \"rotating snakes\" illusion."
+title: "Microsaccades and blinks trigger illusory rotation in the rotating snakes illusion."
 collection: publications
 permalink: /publication/2012-04-25-MicrosaccadesAndBlinksTriggerIllusoryRotationInThe_rotatingSnak
 excerpt: 'ABSTRACT.'
