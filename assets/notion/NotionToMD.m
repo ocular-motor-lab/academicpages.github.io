@@ -38,7 +38,7 @@ authors = strjoin([strjoin(s(1:2:end-2),', '),s(end-1:2:end)],' & ');
         '---'
         ['title: "' title '"']
         'collection: publications'
-        ['permalink: /publication/' strcat(datestr(datenum(papers.PublicationDate{1}),'yyyy-mm-dd'),'-', matlab.lang.makeValidName(title)) '']
+        ['permalink: /publication/' strcat(datestr(datenum(papers.PublicationDate{i}),'yyyy-mm-dd'),'-', matlab.lang.makeValidName(title)) '']
         'excerpt: ''ABSTRACT.'''
         ['date: ' papers.PublicationDate{i}]
         ['venue: ''' papers.Journal_Book{i} '''']
