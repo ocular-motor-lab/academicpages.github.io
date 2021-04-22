@@ -5,9 +5,13 @@ permalink: /publication/2019-07-05-FixationalEyeMovementWaveformsInAmblyopia_Cha
 excerpt: 'ABSTRACT.'
 date: 5-Jul-19
 venue: 'JEMR'
-paperurl: ' '
-citation: 'Kang, Beylergil, Shaikh & Ghasia(2020) "Fixational eye movement waveforms in amblyopia: Characteristics of fast and slow eye movements" Journal of Eye Movement Research, 12(6)'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'a'
 authors: 'Kang, Beylergil, Shaikh & Ghasia'
 year: '2019'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

@@ -5,9 +5,13 @@ permalink: /publication/2011-09-23-TriggeringMechanismsInMicrosaccadeAndSaccadeG
 excerpt: 'ABSTRACT.'
 date: 23-Sep-11
 venue: 'Ann N Y Acad Sci'
-paperurl: ' '
-citation: 'Otero-Millan, Macknik & Martinez-Conde(2020) "Triggering mechanisms in microsaccade and saccade generation: a novel proposal." Ann N Y Acad Sci. 2011 Sep;1233:107-16. '
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'a'
 authors: 'Otero-Millan, Macknik & Martinez-Conde'
 year: '2011'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
