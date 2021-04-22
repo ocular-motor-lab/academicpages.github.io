@@ -10,6 +10,8 @@ citation: 'a'
 authors: 'Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia'
 year: '2020'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation:Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia(2020) Part time patching treatment outcomes in children with amblyopia with and without Fusion Maldevelopment Nystagmus: an eye movement study.. PLOS ONE 15(8): e0237346.
+Recommended citation: aaaaaaYour Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

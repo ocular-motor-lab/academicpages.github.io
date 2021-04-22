@@ -10,6 +10,8 @@ citation: 'a'
 authors: 'Otero-Millan & Kheradmand'
 year: '2016'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation:Otero-Millan & Kheradmand(2020) Upright Perception and Ocular Torsion Change Independently during Head Tilt.. Front Hum Neurosci. 2016 Nov 17;10:573. eCollection 2016.
+Recommended citation: aaaaaaYour Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

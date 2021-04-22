@@ -10,6 +10,8 @@ citation: 'a'
 authors: 'Martinez-Conde, McCamy, Troncoso, Otero-Millan & Macknik'
 year: '2019'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation:Martinez-Conde, McCamy, Troncoso, Otero-Millan & Macknik(2020) Area V1 responses to illusory corner-folds in Vasarely's nested squares and the Alternating Brightness Star illusions.. PLoS One. 2019 Mar 28;14(3):e0210941. 
+Recommended citation: aaaaaaYour Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

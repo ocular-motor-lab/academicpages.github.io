@@ -10,6 +10,8 @@ citation: 'a'
 authors: 'Ghasia, Otero-Millan & Shaikh'
 year: '2018'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation:Ghasia, Otero-Millan & Shaikh(2020) Abnormal fixational eye movements in strabismus.. Br J Ophthalmol. 2018 Feb;102(2):253-259. 
+Recommended citation: aaaaaaYour Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

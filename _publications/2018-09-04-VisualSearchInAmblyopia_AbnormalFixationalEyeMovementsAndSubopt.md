@@ -10,6 +10,8 @@ citation: 'a'
 authors: 'Chen, Otero-Millan, Kumar, Shaikh & Ghasia'
 year: '2018'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation:Chen, Otero-Millan, Kumar, Shaikh & Ghasia(2020) Visual Search in Amblyopia: Abnormal Fixational Eye Movements and Suboptimal Sampling Strategies.. Invest Ophthalmol Vis Sci. 2018 Sep 4;59(11):4506-4517. 
+Recommended citation: aaaaaaYour Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

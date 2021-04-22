@@ -10,6 +10,8 @@ citation: 'a'
 authors: 'Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia'
 year: '2019'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation:Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia(2020) Fixation instability in amblyopia: Oculomotor disease biomarkers predictive of treatment effectiveness.. Prog Brain Res. 2019;249:235-248. 
+Recommended citation: aaaaaaYour Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

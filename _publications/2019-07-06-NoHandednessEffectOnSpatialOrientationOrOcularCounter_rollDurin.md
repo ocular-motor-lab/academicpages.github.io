@@ -10,6 +10,8 @@ citation: 'a'
 authors: 'Winnick, Sadeghpour, Sova, Otero-Millan & Kheradmand'
 year: '2019'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation:Winnick, Sadeghpour, Sova, Otero-Millan & Kheradmand(2020) No handedness effect on spatial orientation or ocular counter-roll during lateral head tilts.. Physiol Rep. 2019 Aug;7(13):e14160. 
+Recommended citation: aaaaaaYour Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
