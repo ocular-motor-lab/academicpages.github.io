@@ -34,11 +34,13 @@ authors = strrep(papers.AuthorsText{i},'ñ','n');
 s = strsplit(authors,', ');
 authors = strjoin([strjoin(s(1:2:end-2),', '),s(end-1:2:end)],' & ');
 
+filename = strcat(datestr(datenum(papers.PublicationDate{i}),'yyyy-mm-dd'),'-', matlab.lang.makeValidName(title));
+
   lines ={
         '---'
         ['title: "' title '"']
         'collection: publications'
-        ['permalink: /publication/' strcat(datestr(datenum(papers.PublicationDate{i}),'yyyy-mm-dd'),'-', matlab.lang.makeValidName(title)) '']
+        ['permalink: /publication/' filename '']
         'excerpt: ''ABSTRACT.'''
         ['date: ' papers.PublicationDate{i}]
         ['venue: ''' papers.Journal_Book{i} '''']
@@ -55,7 +57,7 @@ authors = strjoin([strjoin(s(1:2:end-2),', '),s(end-1:2:end)],' & ');
         
         };
 
-    fid = fopen(['C:\Users\jorge\UC Berkeley\OMlab - JOM\Code\ocular-motor-lab.github.io\_publications\' sprintf('pub%03d.md',i)],'w');
+    fid = fopen(['C:\Users\jorge\UC Berkeley\OMlab - JOM\Code\ocular-motor-lab.github.io\_publications\' sprintf('%s.md',filename)],'w');
     for jj = 1 : size( lines, 1 )
         fprintf( fid, '%s\n', lines{jj,1} );
     end
