@@ -14,7 +14,7 @@ coloryear: 103,36,222,0.2
 
 By: McCamy, Collins, Otero-Millan, Al-Kalbani, Macknik, Coakley, Troncoso, Boyle, Narayanan, TR & Martinez-Conde
 
-Citation: McCamy, Collins, Otero-Millan, Al-Kalbani, Macknik, Coakley, Troncoso, Boyle, Narayanan, TR & Martinez-Conde (2020) Simultaneous recordings of ocular microtremor and microsaccades with a piezoelectric sensor and a video-oculography system.. PeerJ. 2013 Feb 12;1:e14. 
+Citation: McCamy, Collins, Otero-Millan, Al-Kalbani, Macknik, Coakley, Troncoso, Boyle, Narayanan, TR & Martinez-Conde (2020) Simultaneous recordings of ocular microtremor and microsaccades with a piezoelectric sensor and a video-oculography system.. 
 
 Abstract: 
 

@@ -14,7 +14,7 @@ coloryear: 103,36,222,0.2
 
 By: Costela, McCamy, Macknik, Otero-Millan & Martinez-Conde
 
-Citation: Costela, McCamy, Macknik, Otero-Millan & Martinez-Conde (2020) Microsaccades restore the visibility of minute foveal targets.. PeerJ. 2013 Aug 1;1:e119. 
+Citation: Costela, McCamy, Macknik, Otero-Millan & Martinez-Conde (2020) Microsaccades restore the visibility of minute foveal targets.. 
 
 Abstract: 
 
