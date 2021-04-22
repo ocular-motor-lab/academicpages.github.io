@@ -1,6 +1,6 @@
 ---
 title: "Stephanie Reeves"
-excerpt: "Short description<br/><img src='/images/500x300.png'>"
+excerpt: "Vision science graduate student"
 collection: people
 order: 3
 ---

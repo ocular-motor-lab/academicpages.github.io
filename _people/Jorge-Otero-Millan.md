@@ -1,6 +1,6 @@
 ---
 title: "Jorge Otero-Millan"
-excerpt: "Short description<br/><img src='/images/500x300.png'>"
+excerpt: "Lab director"
 collection: people
 order: 1
 ---

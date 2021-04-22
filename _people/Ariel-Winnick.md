@@ -1,6 +1,6 @@
 ---
 title: "Ariel Winnick"
-excerpt: "Short description<br/><img src='/images/500x300.png'>"
+excerpt: "Research associate"
 collection: people
 order: 4
 ---
