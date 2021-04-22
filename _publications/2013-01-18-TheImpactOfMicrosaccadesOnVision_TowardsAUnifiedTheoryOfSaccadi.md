@@ -6,7 +6,7 @@ excerpt: 'ABSTRACT.'
 date: 18-Jan-13
 venue: 'Nat Rev Neurosci'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'a'
+citation: 'Martinez-Conde, Otero-Millan & Macknik(2020) The impact of microsaccades on vision: towards a unified theory of saccadic function.. Nat Rev Neurosci. 2013 Feb;14(2):83-96. '
 authors: 'Martinez-Conde, Otero-Millan & Macknik'
 year: '2013'
 ---

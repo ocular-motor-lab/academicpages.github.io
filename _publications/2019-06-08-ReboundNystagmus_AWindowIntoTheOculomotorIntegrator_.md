@@ -6,7 +6,7 @@ excerpt: 'ABSTRACT.'
 date: 8-Jun-19
 venue: 'Prog Brain Res'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'a'
+citation: 'Otero-Millan, Colpak, Kheradmand & Zee(2020) Rebound nystagmus, a window into the oculomotor integrator.. Prog Brain Res. 2019;249:197-209. '
 authors: 'Otero-Millan, Colpak, Kheradmand & Zee'
 year: '2019'
 ---

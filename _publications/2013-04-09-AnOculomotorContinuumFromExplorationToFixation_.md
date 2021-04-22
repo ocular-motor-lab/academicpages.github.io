@@ -6,7 +6,7 @@ excerpt: 'ABSTRACT.'
 date: 9-Apr-13
 venue: 'PNAS'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'a'
+citation: 'Otero-Millan, Macknik, Langston & Martinez-Conde(2020) An oculomotor continuum from exploration to fixation.. Proc Natl Acad Sci U S A. 2013 Apr 9;110(15):6175-80. '
 authors: 'Otero-Millan, Macknik, Langston & Martinez-Conde'
 year: '2013'
 ---

@@ -6,7 +6,7 @@ excerpt: 'ABSTRACT.'
 date: 28-Jan-16
 venue: 'J Vestib Res'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'a'
+citation: 'Kheradmand, Gonzalez, Otero-Millan & Lasker(2020) Visual perception of upright: Head tilt, visual errors and viewing eye.. J Vestib Res. 2016;25(5-6):201-9. '
 authors: 'Kheradmand, Gonzalez, Otero-Millan & Lasker'
 year: '2016'
 ---

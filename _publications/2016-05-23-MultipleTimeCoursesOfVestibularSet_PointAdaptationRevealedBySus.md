@@ -6,7 +6,7 @@ excerpt: 'ABSTRACT.'
 date: 23-May-16
 venue: 'Curr Biol'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'a'
+citation: 'Jareonsettasin, Otero-Millan, Ward, Roberts, Schubert & Zee(2020) Multiple Time Courses of Vestibular Set-Point Adaptation Revealed by Sustained Magnetic Field Stimulation of the Labyrinth.. Curr Biol. 2016 May 23;26(10):1359-66. '
 authors: 'Jareonsettasin, Otero-Millan, Ward, Roberts, Schubert & Zee'
 year: '2016'
 ---
