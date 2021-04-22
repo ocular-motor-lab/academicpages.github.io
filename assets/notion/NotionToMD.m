@@ -55,12 +55,7 @@ coloryear = colors{mod(papers.Year(i),length(colors))+1}
         ['year: ''' num2str(papers.Year(i)) '''']
         ['coloryear: ' coloryear]
         '---'
-        'This paper is about the number 1. The number 2 is left for future work.'
         ''
-        '[Download paper here](http://academicpages.github.io/files/paper1.pdf)'
-        ''
-        'Recommended citation: aaaaaaYour Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
-        
         };
 
     fid = fopen(['C:\Users\jorge\UC Berkeley\OMlab - JOM\Code\ocular-motor-lab.github.io\_publications\' sprintf('%s.md',filename)],'w');

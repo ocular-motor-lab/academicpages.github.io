@@ -11,8 +11,4 @@ authors: 'Ghasia, Otero-Millan & Shaikh'
 year: '2018'
 coloryear: 245,93,0,0.2
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: aaaaaaYour Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
