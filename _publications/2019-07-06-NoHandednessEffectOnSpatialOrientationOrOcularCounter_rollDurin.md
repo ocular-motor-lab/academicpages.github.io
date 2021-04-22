@@ -5,10 +5,9 @@ permalink: /publication/2019-07-06-NoHandednessEffectOnSpatialOrientationOrOcula
 excerpt: 'ABSTRACT.'
 date: 6-Jul-19
 venue: 'Physiol Rep'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'a'
+paperurl: ' '
+citation: 'Winnick, Sadeghpour, Sova, Otero-Millan & Kheradmand(2020) "No handedness effect on spatial orientation or ocular counter-roll during lateral head tilts." Physiol Rep. 2019 Aug;7(13):e14160. '
 authors: 'Winnick, Sadeghpour, Sova, Otero-Millan & Kheradmand'
 year: '2019'
 ---
 
-Recommended citation: Winnick, Sadeghpour, Sova, Otero-Millan & Kheradmand(2020) "No handedness effect on spatial orientation or ocular counter-roll during lateral head tilts." Physiol Rep. 2019 Aug;7(13):e14160. 

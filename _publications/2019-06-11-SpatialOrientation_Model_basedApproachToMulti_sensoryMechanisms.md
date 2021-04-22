@@ -5,10 +5,9 @@ permalink: /publication/2019-06-11-SpatialOrientation_Model_basedApproachToMulti
 excerpt: 'ABSTRACT.'
 date: 11-Jun-19
 venue: 'Prog Brain Res'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'a'
+paperurl: ' '
+citation: 'Kheradmand & Otero-Millan(2020) "Spatial orientation: Model-based approach to multi-sensory mechanisms." Prog Brain Res. 2019;248:209-223. '
 authors: 'Kheradmand & Otero-Millan'
 year: '2019'
 ---
 
-Recommended citation: Kheradmand & Otero-Millan(2020) "Spatial orientation: Model-based approach to multi-sensory mechanisms." Prog Brain Res. 2019;248:209-223. 

@@ -5,10 +5,9 @@ permalink: /publication/2011-09-29-SocialMisdirectionFailsToEnhanceAMagicIllusio
 excerpt: 'ABSTRACT.'
 date: 29-Sep-11
 venue: 'Front Hum Neurosci'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'a'
+paperurl: ' '
+citation: 'Cui, Otero-Millan, Macknik, King & Martinez-Conde(2020) "Social misdirection fails to enhance a magic illusion." Front Hum Neurosci. 2011 Sep 29;5:103. '
 authors: 'Cui, Otero-Millan, Macknik, King & Martinez-Conde'
 year: '2011'
 ---
 
-Recommended citation: Cui, Otero-Millan, Macknik, King & Martinez-Conde(2020) "Social misdirection fails to enhance a magic illusion." Front Hum Neurosci. 2011 Sep 29;5:103. 

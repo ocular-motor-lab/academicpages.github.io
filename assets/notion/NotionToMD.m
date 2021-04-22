@@ -44,14 +44,13 @@ filename = strcat(datestr(datenum(papers.PublicationDate{i}),'yyyy-mm-dd'),'-', 
         'excerpt: ''ABSTRACT.'''
         ['date: ' papers.PublicationDate{i}]
         ['venue: ''' papers.Journal_Book{i} '''']
-        'paperurl: ''http://academicpages.github.io/files/paper1.pdf'''
-        ['citation: ''' 'a' '''']
+        'paperurl: '' '''
+        ['citation: ''' [authors '(' num2str(papers.Year(1)) ') "' title  '" ' papers.Citation{i}] '''']
         ['authors: ''' authors '''']
         ['year: ''' num2str(papers.Year(i)) '''']
         '---'
         
         ''
-        ['Recommended citation: ' [authors '(' num2str(papers.Year(1)) ') "' title  '" ' papers.Citation{i}] '']
         
         };
 
