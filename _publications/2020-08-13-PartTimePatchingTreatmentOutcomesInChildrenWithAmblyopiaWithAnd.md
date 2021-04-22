@@ -9,6 +9,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'a'
 authors: 'Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia'
 year: '2020'
+coloryear: 233,168,0,0.2
 ---
 This paper is about the number 1. The number 2 is left for future work.
 

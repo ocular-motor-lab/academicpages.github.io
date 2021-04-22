@@ -9,6 +9,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'a'
 authors: 'Winnick, Sadeghpour, Otero-Millan, Chang & Kheradmand'
 year: '2018'
+coloryear: 140,46,0,0.2
 ---
 This paper is about the number 1. The number 2 is left for future work.
 

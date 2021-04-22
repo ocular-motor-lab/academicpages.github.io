@@ -36,6 +36,11 @@ authors = strjoin([strjoin(s(1:2:end-2),', '),s(end-1:2:end)],' & ');
 
 filename = strcat(datestr(datenum(papers.PublicationDate{i}),'yyyy-mm-dd'),'-', matlab.lang.makeValidName(title));
 
+
+colors  ={'155,154,151,0.4', '140,46,0,0.2', '245,93,0,0.2', '233,168,0,0.2', '0,135,107,0.2', '0,120,223,0.2', '103,36,222,0.2', '221,0,129,0.2', '255,0,26,0.2'};
+
+coloryear = colors{mod(papers.Year(i),length(colors))};
+
   lines ={
         '---'
         ['title: "' title '"']
@@ -48,6 +53,7 @@ filename = strcat(datestr(datenum(papers.PublicationDate{i}),'yyyy-mm-dd'),'-', 
         ['citation: ''' 'a' '''']
         ['authors: ''' authors '''']
         ['year: ''' num2str(papers.Year(i)) '''']
+        ['coloryear: ' coloryear]
         '---'
         'This paper is about the number 1. The number 2 is left for future work.'
         ''

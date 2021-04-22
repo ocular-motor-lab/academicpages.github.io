@@ -9,6 +9,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'a'
 authors: 'Otero-Millan, Macknik & Martinez-Conde'
 year: '2014'
+coloryear: 103,36,222,0.2
 ---
 This paper is about the number 1. The number 2 is left for future work.
 

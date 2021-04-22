@@ -9,6 +9,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'a'
 authors: 'McCamy, Collins, Otero-Millan, Al-Kalbani, Macknik, Coakley, Troncoso, Boyle, Narayanan, TR & Martinez-Conde'
 year: '2013'
+coloryear: 11,110,153
 ---
 This paper is about the number 1. The number 2 is left for future work.
 

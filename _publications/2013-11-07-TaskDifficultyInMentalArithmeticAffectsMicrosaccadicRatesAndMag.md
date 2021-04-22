@@ -9,6 +9,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'a'
 authors: 'Siegenthaler, Costela, McCamy, Di Stasi, Otero-Millan, Sonderegger, Groner, Macknik & Martinez-Conde'
 year: '2014'
+coloryear: 11,110,153
 ---
 This paper is about the number 1. The number 2 is left for future work.
 

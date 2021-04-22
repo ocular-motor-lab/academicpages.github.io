@@ -9,6 +9,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'a'
 authors: 'Otero-Millan, Roberts, Lasker, Zee & Kheradmand'
 year: '2015'
+coloryear: 11,110,153
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
