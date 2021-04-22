@@ -31,13 +31,15 @@ title = strrep(title,'”','');
 citation = strrep(papers.Citation{i},'''','');
 
 authors = strrep(papers.AuthorsText{i},'ñ','n');
+s = strsplit(authors,', ');
+authors = strjoin([strjoin(s(1:2:end-2),', '),s(end-1:2:end)],' & ');
 
   lines ={
         '---'
         ['title: "' title '"']
         'collection: publications'
-        'permalink: /publication/2009-10-01-paper-title-number-1'
-        'excerpt: ''This paper is about the number 1. The number 2 is left for future work.'''
+        ['permalink: /publication/' strcat(datestr(datenum(papers.PublicationDate{1}),'yyyy-mm-dd'),'-', matlab.lang.makeValidName(title)) '']
+        'excerpt: ''ABSTRACT.'''
         ['date: ' papers.PublicationDate{i}]
         ['venue: ''' papers.Journal_Book{i} '''']
         'paperurl: ''http://academicpages.github.io/files/paper1.pdf'''
