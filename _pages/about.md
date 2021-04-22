@@ -36,7 +36,7 @@ Disorders affecting vision, cognition, motor control, or our balance sensation w
 
 {% include base_path %}
 
-{% assign pbus = site.publications |  where_exp:"item", "item.year > 2015" }}
+{% assign pbus = site.publications |  where_exp:"item", "item.year > 2015" %}
 
 
 {% for post in pbus reversed %}
