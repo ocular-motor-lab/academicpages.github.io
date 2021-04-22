@@ -14,7 +14,7 @@ coloryear: 140,46,0,0.2
 
 By: Otero-Millan, Zee, Schubert, Roberts & Ward
 
-Citation: Otero-Millan, Zee, Schubert, Roberts & Ward(2020) Three-dimensional eye movement recordings during magnetic vestibular stimulation.. J Neurol. 2017 Oct;264\(Suppl 1\):7-12. 
+Citation: Otero-Millan, Zee, Schubert, Roberts & Ward(2020) Three-dimensional eye movement recordings during magnetic vestibular stimulation.. J Neurol. 2017 Oct;264Suppl 1:7-12. 
 
 Abstract: 
 

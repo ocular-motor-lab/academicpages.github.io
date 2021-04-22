@@ -29,8 +29,8 @@ title = strrep(papers.Title{i},'“','');
 title = strrep(title,'”','');
 
 citation = strrep(papers.Citation{i},'''','');
-citation = strrep(citation,'(','\(');
-citation = strrep(citation,')','\)');
+citation = strrep(citation,'(','');
+citation = strrep(citation,')','');
 
 authors = strrep(papers.AuthorsText{i},'ñ','n');
 s = strsplit(authors,', ');
