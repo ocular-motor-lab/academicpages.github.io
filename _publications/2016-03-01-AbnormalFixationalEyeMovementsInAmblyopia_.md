@@ -14,7 +14,7 @@ coloryear: 155,154,151,0.4
 
 By: Shaikh, Otero-Millan, Kumar & Ghasia
 
-Citation: Shaikh, Otero-Millan, Kumar & Ghasia(2020) Abnormal Fixational Eye Movements in Amblyopia.. PLoS One. 2016 Mar 1;113:e0149953. 
+Citation: Shaikh, Otero-Millan, Kumar & Ghasia (2020) Abnormal Fixational Eye Movements in Amblyopia.. PLoS One. 2016 Mar 1;113:e0149953. 
 
 Abstract: 
 

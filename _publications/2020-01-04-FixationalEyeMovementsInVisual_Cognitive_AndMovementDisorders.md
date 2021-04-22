@@ -14,7 +14,7 @@ coloryear: 0,135,107,0.2
 
 By: Otero-Millan
 
-Citation: Otero-Millan(2020) Fixational Eye Movements in Visual, Cognitive, and Movement Disorders. In: Shaikh A., Ghasia F. eds Advances in Translational Neuroscience of Eye Movement Disorders. Contemporary Clinical Neuroscience. Springer, Cham.
+Citation: Otero-Millan (2020) Fixational Eye Movements in Visual, Cognitive, and Movement Disorders. In: Shaikh A., Ghasia F. eds Advances in Translational Neuroscience of Eye Movement Disorders. Contemporary Clinical Neuroscience. Springer, Cham.
 
 Abstract: 
 

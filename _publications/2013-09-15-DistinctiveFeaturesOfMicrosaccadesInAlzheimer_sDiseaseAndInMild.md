@@ -14,7 +14,7 @@ coloryear: 221,0,129,0.2
 
 By: Kapoula, Otero-Millan, Yang, Xiao, Macknik, Lang, Verny & Martinez-Conde
 
-Citation: Kapoula, Otero-Millan, Yang, Xiao, Macknik, Lang, Verny & Martinez-Conde(2020) Distinctive features of microsaccades in Alzheimer's disease and in mild cognitive impairment.. Age Dordr. 2014 Apr;362:535-43. 
+Citation: Kapoula, Otero-Millan, Yang, Xiao, Macknik, Lang, Verny & Martinez-Conde (2020) Distinctive features of microsaccades in Alzheimer's disease and in mild cognitive impairment.. Age Dordr. 2014 Apr;362:535-43. 
 
 Abstract: 
 

@@ -4,7 +4,7 @@ papers.Status = categorical(papers.Status);
 papers(papers.Status ~= 'Published ',:) = [];
 
 for i=1:height(papers)
-    
+    i
 %     lines ={
 %         '---'
 %         ['title: "' papers.Title{i} '"']
@@ -31,7 +31,6 @@ title = strrep(title,'”','');
 citation = strrep(papers.Citation{i},'''','');
 citation = strrep(citation,'(','');
 citation = strrep(citation,')','');
-disp(citation)
 
 authors = strrep(papers.AuthorsText{i},'ñ','n');
 s = strsplit(authors,', ');
@@ -44,7 +43,7 @@ colors  ={'155,154,151,0.4', '140,46,0,0.2', '245,93,0,0.2', '233,168,0,0.2', '0
 
 coloryear = colors{mod(papers.Year(i),length(colors))+1};
 
-lines ={
+  lines ={
         '---'
         ['title: "' title '"']
         'collection: publications'
