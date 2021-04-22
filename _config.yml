@@ -184,6 +184,9 @@ collections:
    people:
      output: true
      permalink: /:collection/:path/
+   alumni:
+     output: true
+     permalink: /:collection/:path/
    portfolio:
      output: true
      permalink: /:collection/:path/
@@ -216,6 +219,15 @@ defaults:
   - scope:
       path: ""
       type: people
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _alumni
+  - scope:
+      path: ""
+      type: alumni
     values:
       layout: single
       author_profile: true
