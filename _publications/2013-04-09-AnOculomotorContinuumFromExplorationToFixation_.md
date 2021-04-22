@@ -14,7 +14,7 @@ coloryear: 103,36,222,0.2
 
 By: Otero-Millan, Macknik, Langston & Martinez-Conde
 
-Citation: Otero-Millan, Macknik, Langston & Martinez-Conde(2020) An oculomotor continuum from exploration to fixation.. Proc Natl Acad Sci U S A. 2013 Apr 9;110(15):6175-80. 
+Citation: Otero-Millan, Macknik, Langston & Martinez-Conde(2020) An oculomotor continuum from exploration to fixation.. Proc Natl Acad Sci U S A. 2013 Apr 9;110\(15\):6175-80. 
 
 Abstract: 
 

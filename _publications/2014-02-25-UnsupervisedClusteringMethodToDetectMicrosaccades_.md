@@ -14,7 +14,7 @@ coloryear: 221,0,129,0.2
 
 By: Otero-Millan, Alba Castro, Macknik & Martinez-Conde
 
-Citation: Otero-Millan, Alba Castro, Macknik & Martinez-Conde(2020) Unsupervised clustering method to detect microsaccades.. J Vis. 2014 Feb 25;14(2). pii: 18. 
+Citation: Otero-Millan, Alba Castro, Macknik & Martinez-Conde(2020) Unsupervised clustering method to detect microsaccades.. J Vis. 2014 Feb 25;14\(2\). pii: 18. 
 
 Abstract: 
 

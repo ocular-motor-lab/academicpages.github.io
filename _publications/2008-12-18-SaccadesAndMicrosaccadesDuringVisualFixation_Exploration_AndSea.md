@@ -14,7 +14,7 @@ coloryear: 140,46,0,0.2
 
 By: Otero-Millan, Troncoso, Macknik, Serrano-Pedraza & Martinez-Conde
 
-Citation: Otero-Millan, Troncoso, Macknik, Serrano-Pedraza & Martinez-Conde(2020) Saccades and microsaccades during visual fixation, exploration, and search: foundations for a common saccadic generator.. J Vis. 2008 Dec 18;8(14):21.1-18. 
+Citation: Otero-Millan, Troncoso, Macknik, Serrano-Pedraza & Martinez-Conde(2020) Saccades and microsaccades during visual fixation, exploration, and search: foundations for a common saccadic generator.. J Vis. 2008 Dec 18;8\(14\):21.1-18. 
 
 Abstract: 
 

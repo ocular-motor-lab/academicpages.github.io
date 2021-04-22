@@ -14,7 +14,7 @@ coloryear: 140,46,0,0.2
 
 By: Otero-Millan, Trevino, Winnick, Zee, Carey & Kheradmand
 
-Citation: Otero-Millan, Trevino, Winnick, Zee, Carey & Kheradmand(2020) The video ocular counter-roll (vOCR): a clinical test to detect loss of otolith-ocular function.. Acta Otolaryngol. 2017 Jun;137(6):593-597. 
+Citation: Otero-Millan, Trevino, Winnick, Zee, Carey & Kheradmand(2020) The video ocular counter-roll (vOCR): a clinical test to detect loss of otolith-ocular function.. Acta Otolaryngol. 2017 Jun;137\(6\):593-597. 
 
 Abstract: 
 

@@ -14,7 +14,7 @@ coloryear: 0,120,223,0.2
 
 By: Otero-Millan, Macknik & Martinez-Conde
 
-Citation: Otero-Millan, Macknik & Martinez-Conde(2020) Microsaccades and blinks trigger illusory rotation in the "rotating snakes" illusion.. J Neurosci. 2012 Apr 25;32(17):6043-51. 
+Citation: Otero-Millan, Macknik & Martinez-Conde(2020) Microsaccades and blinks trigger illusory rotation in the "rotating snakes" illusion.. J Neurosci. 2012 Apr 25;32\(17\):6043-51. 
 
 Abstract: 
 
