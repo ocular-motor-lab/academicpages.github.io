@@ -13,4 +13,9 @@ coloryear: 245,93,0,0.2
 ---
 
 By: Chen, Otero-Millan, Kumar, Shaikh & Ghasia
+
 Citation: Chen, Otero-Millan, Kumar, Shaikh & Ghasia(2020) Visual Search in Amblyopia: Abnormal Fixational Eye Movements and Suboptimal Sampling Strategies.. 
+
+Abstract: 
+
+Link: 

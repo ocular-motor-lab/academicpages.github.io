@@ -13,4 +13,9 @@ coloryear: 0,135,107,0.2
 ---
 
 By: Punugati & Otero-Millan
+
 Citation: Punugati & Otero-Millan(2020) Detection of Saccades and Quick-Phases in Eye Movement Recordings with Nystagmus. 
+
+Abstract: 
+
+Link: 

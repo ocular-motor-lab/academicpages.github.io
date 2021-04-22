@@ -13,4 +13,9 @@ coloryear: 233,168,0,0.2
 ---
 
 By: Kheradmand & Otero-Millan
+
 Citation: Kheradmand & Otero-Millan(2020) Spatial orientation: Model-based approach to multi-sensory mechanisms.. 
+
+Abstract: 
+
+Link: 
