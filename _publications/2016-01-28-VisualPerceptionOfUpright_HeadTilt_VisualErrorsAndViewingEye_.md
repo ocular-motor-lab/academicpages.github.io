@@ -14,7 +14,7 @@ coloryear: 155,154,151,0.4
 
 By: Kheradmand, Gonzalez, Otero-Millan & Lasker
 
-Citation: Kheradmand, Gonzalez, Otero-Millan & Lasker(2020) Visual perception of upright: Head tilt, visual errors and viewing eye.. 
+Citation: Kheradmand, Gonzalez, Otero-Millan & Lasker(2020) Visual perception of upright: Head tilt, visual errors and viewing eye.. J Vestib Res. 2016;25(5-6):201-9. 
 
 Abstract: 
 

@@ -14,7 +14,7 @@ coloryear: 155,154,151,0.4
 
 By: Jareonsettasin, Otero-Millan, Ward, Roberts, Schubert & Zee
 
-Citation: Jareonsettasin, Otero-Millan, Ward, Roberts, Schubert & Zee(2020) Multiple Time Courses of Vestibular Set-Point Adaptation Revealed by Sustained Magnetic Field Stimulation of the Labyrinth.. 
+Citation: Jareonsettasin, Otero-Millan, Ward, Roberts, Schubert & Zee(2020) Multiple Time Courses of Vestibular Set-Point Adaptation Revealed by Sustained Magnetic Field Stimulation of the Labyrinth.. Curr Biol. 2016 May 23;26(10):1359-66. 
 
 Abstract: 
 

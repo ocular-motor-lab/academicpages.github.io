@@ -39,7 +39,7 @@ filename = strcat(datestr(datenum(papers.PublicationDate{i}),'yyyy-mm-dd'),'-', 
 
 colors  ={'155,154,151,0.4', '140,46,0,0.2', '245,93,0,0.2', '233,168,0,0.2', '0,135,107,0.2', '0,120,223,0.2', '103,36,222,0.2', '221,0,129,0.2', '255,0,26,0.2'};
 
-coloryear = colors{mod(papers.Year(i),length(colors))+1}
+coloryear = colors{mod(papers.Year(i),length(colors))+1};
 
   lines ={
         '---'
@@ -58,7 +58,7 @@ coloryear = colors{mod(papers.Year(i),length(colors))+1}
         ''
         ['By: ' authors]
         ''
-        ['Citation: ' authors '(' num2str(papers.Year(1)) ') ' title  '. ' ]
+        ['Citation: ' authors '(' num2str(papers.Year(1)) ') ' title  '. ' citation]
         ''
         ['Abstract: ' ]
         ''
@@ -70,7 +70,6 @@ coloryear = colors{mod(papers.Year(i),length(colors))+1}
         fprintf( fid, '%s\n', lines{jj,1} );
     end
     fclose(fid);
-
 end
 % 
 % 

@@ -14,7 +14,7 @@ coloryear: 0,135,107,0.2
 
 By: Otero-Millan, Macknik & Martinez-Conde
 
-Citation: Otero-Millan, Macknik & Martinez-Conde(2020) Triggering mechanisms in microsaccade and saccade generation: a novel proposal.. 
+Citation: Otero-Millan, Macknik & Martinez-Conde(2020) Triggering mechanisms in microsaccade and saccade generation: a novel proposal.. Ann N Y Acad Sci. 2011 Sep;1233:107-16. 
 
 Abstract: 
 

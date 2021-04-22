@@ -14,7 +14,7 @@ coloryear: 0,135,107,0.2
 
 By: Otero-Millan, Macknik & Martinez-Conde
 
-Citation: Otero-Millan, Macknik & Martinez-Conde(2020) Stronger misdirection in curved than in straight motion.. 
+Citation: Otero-Millan, Macknik & Martinez-Conde(2020) Stronger misdirection in curved than in straight motion.. Front Hum Neurosci. 2011 Nov 21;5:133. 
 
 Abstract: 
 

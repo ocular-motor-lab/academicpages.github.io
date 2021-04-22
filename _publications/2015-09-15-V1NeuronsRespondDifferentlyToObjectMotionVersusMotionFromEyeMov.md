@@ -14,7 +14,7 @@ coloryear: 255,0,26,0.2
 
 By: Troncoso, McCamy, Najafian Jazi, Cui, Otero-Millan, Macknik, Costela & Martinez-Conde
 
-Citation: Troncoso, McCamy, Najafian Jazi, Cui, Otero-Millan, Macknik, Costela & Martinez-Conde(2020) V1 neurons respond differently to object motion versus motion from eye movements.. 
+Citation: Troncoso, McCamy, Najafian Jazi, Cui, Otero-Millan, Macknik, Costela & Martinez-Conde(2020) V1 neurons respond differently to object motion versus motion from eye movements.. Nat Commun. 2015 Sep 15;6:8114. 
 
 Abstract: 
 
