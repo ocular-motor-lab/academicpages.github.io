@@ -6,7 +6,7 @@ excerpt: 'ABSTRACT.'
 date: 13-Aug-20
 venue: 'PLoS One'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia(2020) Part time patching treatment outcomes in children with amblyopia with and without Fusion Maldevelopment Nystagmus: an eye movement study.. PLOS ONE 15(8): e0237346.'
+citation: "Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia(2020) Part time patching treatment outcomes in children with amblyopia with and without Fusion Maldevelopment Nystagmus: an eye movement study.. PLOS ONE 15(8): e0237346."
 authors: 'Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia'
 year: '2020'
 ---

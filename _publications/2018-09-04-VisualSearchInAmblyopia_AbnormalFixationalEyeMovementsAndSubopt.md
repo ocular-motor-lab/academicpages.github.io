@@ -6,7 +6,7 @@ excerpt: 'ABSTRACT.'
 date: 4-Sep-18
 venue: 'IOVS'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Chen, Otero-Millan, Kumar, Shaikh & Ghasia(2020) Visual Search in Amblyopia: Abnormal Fixational Eye Movements and Suboptimal Sampling Strategies.. Invest Ophthalmol Vis Sci. 2018 Sep 4;59(11):4506-4517. '
+citation: "Chen, Otero-Millan, Kumar, Shaikh & Ghasia(2020) Visual Search in Amblyopia: Abnormal Fixational Eye Movements and Suboptimal Sampling Strategies.. Invest Ophthalmol Vis Sci. 2018 Sep 4;59(11):4506-4517. "
 authors: 'Chen, Otero-Millan, Kumar, Shaikh & Ghasia'
 year: '2018'
 ---

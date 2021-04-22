@@ -6,7 +6,7 @@ excerpt: 'ABSTRACT.'
 date: 4-Jan-20
 venue: 'Adv Trans Neuro'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Otero-Millan(2020) Fixational Eye Movements in Visual, Cognitive, and Movement Disorders. In: Shaikh A., Ghasia F. (eds) Advances in Translational Neuroscience of Eye Movement Disorders. Contemporary Clinical Neuroscience. Springer, Cham.'
+citation: "Otero-Millan(2020) Fixational Eye Movements in Visual, Cognitive, and Movement Disorders. In: Shaikh A., Ghasia F. (eds) Advances in Translational Neuroscience of Eye Movement Disorders. Contemporary Clinical Neuroscience. Springer, Cham."
 authors: 'Otero-Millan'
 year: '2020'
 ---

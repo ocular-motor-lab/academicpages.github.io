@@ -6,7 +6,7 @@ excerpt: 'ABSTRACT.'
 date: 29-Jun-20
 venue: 'JEMR'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Otero-Millan, Langston, Costela, Macknik & Martinez-Conde(2020) Microsaccade generation requires a foveal anchor. Journal of Eye Movement Research, 12(6)'
+citation: "Otero-Millan, Langston, Costela, Macknik & Martinez-Conde(2020) Microsaccade generation requires a foveal anchor. Journal of Eye Movement Research, 12(6)"
 authors: 'Otero-Millan, Langston, Costela, Macknik & Martinez-Conde'
 year: '2020'
 ---

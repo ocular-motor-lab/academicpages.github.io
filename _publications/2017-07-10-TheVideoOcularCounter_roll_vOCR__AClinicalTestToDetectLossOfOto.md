@@ -6,7 +6,7 @@ excerpt: 'ABSTRACT.'
 date: 10-Jul-17
 venue: 'Acta Otolaryngol'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Otero-Millan, Trevino, Winnick, Zee, Carey & Kheradmand(2020) The video ocular counter-roll (vOCR): a clinical test to detect loss of otolith-ocular function.. Acta Otolaryngol. 2017 Jun;137(6):593-597. '
+citation: "Otero-Millan, Trevino, Winnick, Zee, Carey & Kheradmand(2020) The video ocular counter-roll (vOCR): a clinical test to detect loss of otolith-ocular function.. Acta Otolaryngol. 2017 Jun;137(6):593-597. "
 authors: 'Otero-Millan, Trevino, Winnick, Zee, Carey & Kheradmand'
 year: '2017'
 ---

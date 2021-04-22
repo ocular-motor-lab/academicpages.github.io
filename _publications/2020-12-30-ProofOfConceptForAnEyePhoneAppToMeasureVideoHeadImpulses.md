@@ -6,7 +6,7 @@ excerpt: 'ABSTRACT.'
 date: 30-Dec-20
 venue: 'Digital Biomarkers'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Taylor Max Parker, Otero-Millan, Kheradmand, McClenney & Newman-Toker(2020) Proof of Concept for an eyePhone App to Measure Video Head Impulses. Digit Biomark 2021;5:1–8'
+citation: "Taylor Max Parker, Otero-Millan, Kheradmand, McClenney & Newman-Toker(2020) Proof of Concept for an eyePhone App to Measure Video Head Impulses. Digit Biomark 2021;5:1–8"
 authors: 'Taylor Max Parker, Otero-Millan, Kheradmand, McClenney & Newman-Toker'
 year: '2020'
 ---

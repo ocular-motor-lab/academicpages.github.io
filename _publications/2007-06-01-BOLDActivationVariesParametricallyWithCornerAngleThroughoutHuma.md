@@ -6,7 +6,7 @@ excerpt: 'ABSTRACT.'
 date: 1-Jun-07
 venue: 'Perception'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Troncoso, Tse, Macknik, Gideon P. Caplovitz, Paul J, Alex A, Jorge & Martinez-Conde(2020) BOLD activation varies parametrically with corner angle throughout human retinotopic cortex.. Perception. 2007;36(6):808-20.'
+citation: "Troncoso, Tse, Macknik, Gideon P. Caplovitz, Paul J, Alex A, Jorge & Martinez-Conde(2020) BOLD activation varies parametrically with corner angle throughout human retinotopic cortex.. Perception. 2007;36(6):808-20."
 authors: 'Troncoso, Tse, Macknik, Gideon P. Caplovitz, Paul J, Alex A, Jorge & Martinez-Conde'
 year: '2007'
 ---

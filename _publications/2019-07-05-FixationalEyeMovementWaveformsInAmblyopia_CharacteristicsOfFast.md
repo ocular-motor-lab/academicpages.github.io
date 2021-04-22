@@ -6,7 +6,7 @@ excerpt: 'ABSTRACT.'
 date: 5-Jul-19
 venue: 'JEMR'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Kang, Beylergil, Shaikh & Ghasia(2020) Fixational eye movement waveforms in amblyopia: Characteristics of fast and slow eye movements. Journal of Eye Movement Research, 12(6)'
+citation: "Kang, Beylergil, Shaikh & Ghasia(2020) Fixational eye movement waveforms in amblyopia: Characteristics of fast and slow eye movements. Journal of Eye Movement Research, 12(6)"
 authors: 'Kang, Beylergil, Shaikh & Ghasia'
 year: '2019'
 ---

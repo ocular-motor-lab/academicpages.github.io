@@ -6,7 +6,7 @@ excerpt: 'ABSTRACT.'
 date: 30-Oct-18
 venue: 'Front Neurol'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Winnick, Sadeghpour, Otero-Millan, Chang & Kheradmand(2020) Errors of Upright Perception in Patients With Vestibular Migraine.. Front Neurol. 2018 Oct 30;9:892. '
+citation: "Winnick, Sadeghpour, Otero-Millan, Chang & Kheradmand(2020) Errors of Upright Perception in Patients With Vestibular Migraine.. Front Neurol. 2018 Oct 30;9:892. "
 authors: 'Winnick, Sadeghpour, Otero-Millan, Chang & Kheradmand'
 year: '2018'
 ---
