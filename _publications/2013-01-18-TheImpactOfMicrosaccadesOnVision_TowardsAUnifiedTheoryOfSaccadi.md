@@ -10,8 +10,5 @@ citation: 'a'
 authors: 'Martinez-Conde, Otero-Millan & Macknik'
 year: '2013'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Martinez-Conde, Otero-Millan & Macknik(2020) "The impact of microsaccades on vision: towards a unified theory of saccadic function." Nat Rev Neurosci. 2013 Feb;14(2):83-96. 

@@ -10,8 +10,5 @@ citation: 'a'
 authors: 'Kheradmand, Gonzalez, Otero-Millan & Lasker'
 year: '2016'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Kheradmand, Gonzalez, Otero-Millan & Lasker(2020) "Visual perception of upright: Head tilt, visual errors and viewing eye." J Vestib Res. 2016;25(5-6):201-9. 

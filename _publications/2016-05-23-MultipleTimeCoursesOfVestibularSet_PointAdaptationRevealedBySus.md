@@ -10,8 +10,5 @@ citation: 'a'
 authors: 'Jareonsettasin, Otero-Millan, Ward, Roberts, Schubert & Zee'
 year: '2016'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Jareonsettasin, Otero-Millan, Ward, Roberts, Schubert & Zee(2020) "Multiple Time Courses of Vestibular Set-Point Adaptation Revealed by Sustained Magnetic Field Stimulation of the Labyrinth." Curr Biol. 2016 May 23;26(10):1359-66. 
