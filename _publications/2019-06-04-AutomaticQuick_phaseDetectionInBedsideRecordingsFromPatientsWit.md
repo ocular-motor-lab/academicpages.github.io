@@ -6,12 +6,10 @@ excerpt: 'ABSTRACT.'
 date: 4-Jun-19
 venue: 'ETRA'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: "Punugati, Tian & Otero-Millan(2020) Automatic quick-phase detection in bedside recordings from patients with acute dizziness and nystagmus. ETRA 19 Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications. 2019;54:1–3"
+citation: 'a'
 authors: 'Punugati, Tian & Otero-Millan'
 year: '2020'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation:Punugati, Tian & Otero-Millan(2020) Automatic quick-phase detection in bedside recordings from patients with acute dizziness and nystagmus. ETRA 19 Proceedings of the 11th ACM Symposium on Eye Tracking Research & Applications. 2019;54:1–3
