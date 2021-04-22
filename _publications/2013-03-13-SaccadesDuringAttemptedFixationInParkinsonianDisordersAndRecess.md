@@ -12,4 +12,5 @@ year: '2013'
 coloryear: 103,36,222,0.2
 ---
 
-By :Otero-Millan, Schneider, Leigh, Macknik & Martinez-Conde
+By: Otero-Millan, Schneider, Leigh, Macknik & Martinez-Conde
+Citation: Otero-Millan, Schneider, Leigh, Macknik & Martinez-Conde(2020) Saccades during attempted fixation in parkinsonian disorders and recessive ataxia: from microsaccades to square-wave jerks.. 

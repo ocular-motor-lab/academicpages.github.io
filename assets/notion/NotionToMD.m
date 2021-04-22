@@ -56,7 +56,8 @@ coloryear = colors{mod(papers.Year(i),length(colors))+1}
         ['coloryear: ' coloryear]
         '---'
         ''
-        ['By :' authors]
+        ['By: ' authors]
+        ['Citation: ' authors '(' num2str(papers.Year(1)) ') ' title  '. ' ]
         };
 
     fid = fopen(['C:\Users\jorge\UC Berkeley\OMlab - JOM\Code\ocular-motor-lab.github.io\_publications\' sprintf('%s.md',filename)],'w');

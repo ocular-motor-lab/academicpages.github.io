@@ -12,4 +12,5 @@ year: '2020'
 coloryear: 0,135,107,0.2
 ---
 
-By :Punugati, Tian & Otero-Millan
+By: Punugati, Tian & Otero-Millan
+Citation: Punugati, Tian & Otero-Millan(2020) Automatic quick-phase detection in bedside recordings from patients with acute dizziness and nystagmus. 

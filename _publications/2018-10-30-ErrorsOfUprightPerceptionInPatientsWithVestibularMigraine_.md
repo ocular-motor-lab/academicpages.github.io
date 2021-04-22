@@ -12,4 +12,5 @@ year: '2018'
 coloryear: 245,93,0,0.2
 ---
 
-By :Winnick, Sadeghpour, Otero-Millan, Chang & Kheradmand
+By: Winnick, Sadeghpour, Otero-Millan, Chang & Kheradmand
+Citation: Winnick, Sadeghpour, Otero-Millan, Chang & Kheradmand(2020) Errors of Upright Perception in Patients With Vestibular Migraine.. 

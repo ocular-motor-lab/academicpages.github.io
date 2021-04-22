@@ -12,4 +12,5 @@ year: '2010'
 coloryear: 233,168,0,0.2
 ---
 
-By :Chen, Riley, King, Joshi, Serra, Liao, Cohen, Otero-Millan, Martinez-Conde, Strupp & Leigh
+By: Chen, Riley, King, Joshi, Serra, Liao, Cohen, Otero-Millan, Martinez-Conde, Strupp & Leigh
+Citation: Chen, Riley, King, Joshi, Serra, Liao, Cohen, Otero-Millan, Martinez-Conde, Strupp & Leigh(2020) The disturbance of gaze in progressive supranuclear palsy: implications for pathogenesis.. 

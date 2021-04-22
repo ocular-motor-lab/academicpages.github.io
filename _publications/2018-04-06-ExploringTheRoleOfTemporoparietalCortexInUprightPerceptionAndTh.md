@@ -12,4 +12,5 @@ year: '2018'
 coloryear: 245,93,0,0.2
 ---
 
-By :Otero-Millan, Winnick & Kheradmand
+By: Otero-Millan, Winnick & Kheradmand
+Citation: Otero-Millan, Winnick & Kheradmand(2020) Exploring the Role of Temporoparietal Cortex in Upright Perception and the Link With Torsional Eye Position.. 

@@ -12,4 +12,5 @@ year: '2020'
 coloryear: 0,135,107,0.2
 ---
 
-By :Otero-Millan
+By: Otero-Millan
+Citation: Otero-Millan(2020) Fixational Eye Movements in Visual, Cognitive, and Movement Disorders. 

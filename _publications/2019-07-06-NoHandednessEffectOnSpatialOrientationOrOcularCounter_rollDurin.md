@@ -12,4 +12,5 @@ year: '2019'
 coloryear: 233,168,0,0.2
 ---
 
-By :Winnick, Sadeghpour, Sova, Otero-Millan & Kheradmand
+By: Winnick, Sadeghpour, Sova, Otero-Millan & Kheradmand
+Citation: Winnick, Sadeghpour, Sova, Otero-Millan & Kheradmand(2020) No handedness effect on spatial orientation or ocular counter-roll during lateral head tilts.. 

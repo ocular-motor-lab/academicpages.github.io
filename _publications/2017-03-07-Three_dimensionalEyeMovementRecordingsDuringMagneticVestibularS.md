@@ -12,4 +12,5 @@ year: '2017'
 coloryear: 140,46,0,0.2
 ---
 
-By :Otero-Millan, Zee, Schubert, Roberts & Ward
+By: Otero-Millan, Zee, Schubert, Roberts & Ward
+Citation: Otero-Millan, Zee, Schubert, Roberts & Ward(2020) Three-dimensional eye movement recordings during magnetic vestibular stimulation.. 

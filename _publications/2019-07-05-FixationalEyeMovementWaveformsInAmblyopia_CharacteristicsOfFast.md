@@ -12,4 +12,5 @@ year: '2019'
 coloryear: 233,168,0,0.2
 ---
 
-By :Kang, Beylergil, Shaikh & Ghasia
+By: Kang, Beylergil, Shaikh & Ghasia
+Citation: Kang, Beylergil, Shaikh & Ghasia(2020) Fixational eye movement waveforms in amblyopia: Characteristics of fast and slow eye movements. 

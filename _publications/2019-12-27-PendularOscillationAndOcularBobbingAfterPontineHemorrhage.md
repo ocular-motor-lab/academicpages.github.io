@@ -12,4 +12,5 @@ year: '2019'
 coloryear: 233,168,0,0.2
 ---
 
-By :Chang, Gold, Otero-Millan, Huang & Zee
+By: Chang, Gold, Otero-Millan, Huang & Zee
+Citation: Chang, Gold, Otero-Millan, Huang & Zee(2020) Pendular Oscillation and Ocular Bobbing After Pontine Hemorrhage. 

@@ -12,4 +12,5 @@ year: '2020'
 coloryear: 0,135,107,0.2
 ---
 
-By :Green, Pogson, Otero-Millan, Gold, Tevzadze, Teharani, Zee, Newman-Toker & Kheradmand
+By: Green, Pogson, Otero-Millan, Gold, Tevzadze, Teharani, Zee, Newman-Toker & Kheradmand
+Citation: Green, Pogson, Otero-Millan, Gold, Tevzadze, Teharani, Zee, Newman-Toker & Kheradmand(2020) Remote evaluation of acute vertigo: Strategies and technological considerations. 

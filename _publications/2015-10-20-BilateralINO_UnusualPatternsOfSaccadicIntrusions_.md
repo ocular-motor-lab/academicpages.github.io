@@ -12,4 +12,5 @@ year: '2015'
 coloryear: 255,0,26,0.2
 ---
 
-By :Otero-Millan, Benavides, Zee & Kheradmand
+By: Otero-Millan, Benavides, Zee & Kheradmand
+Citation: Otero-Millan, Benavides, Zee & Kheradmand(2020) Bilateral INO: Unusual patterns of saccadic intrusions.. 

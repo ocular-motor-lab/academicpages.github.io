@@ -12,4 +12,5 @@ year: '2018'
 coloryear: 245,93,0,0.2
 ---
 
-By :Ghasia, Otero-Millan & Shaikh
+By: Ghasia, Otero-Millan & Shaikh
+Citation: Ghasia, Otero-Millan & Shaikh(2020) Abnormal fixational eye movements in strabismus.. 
