@@ -30,7 +30,6 @@ title = strrep(papers.Title{i},'“','');
 title = strrep(title,'”','');
 
 citation = MarkdownScape(papers.Citation{i});
-disp(citation)
 
 authors = strrep(papers.AuthorsText{i},'ñ','n');
 s = strsplit(authors,', ');
@@ -42,6 +41,9 @@ filename = strcat(datestr(datenum(papers.PublicationDate{i}),'yyyy-mm-dd'),'-', 
 colors  ={'155,154,151,0.4', '140,46,0,0.2', '245,93,0,0.2', '233,168,0,0.2', '0,135,107,0.2', '0,120,223,0.2', '103,36,222,0.2', '221,0,129,0.2', '255,0,26,0.2'};
 
 coloryear = colors{mod(papers.Year(i),length(colors))+1};
+
+abstract = MarkdownScape(papers.Abstract{i});
+disp(abstract)
 
 lines ={
         '---'
@@ -62,7 +64,7 @@ lines ={
         ''
         ['Citation: ' authors ' (' num2str(papers.Year(i)) ') ' title  '. ' citation]
         ''
-        ['Abstract: ' MarkdownScape(papers.Abstract{i})]
+        ['Abstract: ' abstract]
         ''
         ['Link: ' ]
         };
