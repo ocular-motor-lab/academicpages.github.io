@@ -14,7 +14,7 @@ coloryear: 221,0,129,0.2
 
 By: Otero-Millan, Macknik & Martinez-Conde
 
-Citation: Otero-Millan, Macknik & Martinez-Conde (2020) Fixational eye movements and binocular vision.. Front Integr Neurosci. 2014 Jul 7;8:52. 
+Citation: Otero-Millan, Macknik & Martinez-Conde (2020) Fixational eye movements and binocular vision.. 
 
 Abstract: 
 

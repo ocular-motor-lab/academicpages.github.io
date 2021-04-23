@@ -14,7 +14,7 @@ coloryear: 233,168,0,0.2
 
 By: Ward, Roberts, Otero-Millan & Zee
 
-Citation: Ward, Roberts, Otero-Millan & Zee (2020) A decade of magnetic vestibular stimulation: from serendipity to physics to the clinic.. J Neurophysiol. 2019 Jun 1;1216:2013-2019. 
+Citation: Ward, Roberts, Otero-Millan & Zee (2020) A decade of magnetic vestibular stimulation: from serendipity to physics to the clinic.. 
 
 Abstract: 
 

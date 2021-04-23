@@ -14,7 +14,7 @@ coloryear: 0,135,107,0.2
 
 By: Taylor Max Parker, Otero-Millan, Kheradmand, McClenney & Newman-Toker
 
-Citation: Taylor Max Parker, Otero-Millan, Kheradmand, McClenney & Newman-Toker (2020) Proof of Concept for an eyePhone App to Measure Video Head Impulses. Digit Biomark 2021;5:1–8
+Citation: Taylor Max Parker, Otero-Millan, Kheradmand, McClenney & Newman-Toker (2020) Proof of Concept for an eyePhone App to Measure Video Head Impulses. 
 
 Abstract: 
 
