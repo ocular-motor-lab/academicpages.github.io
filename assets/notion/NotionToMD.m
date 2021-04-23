@@ -69,7 +69,7 @@ lines ={
         ['Link: ' ]
         };
 
-    fid = fopen(['C:\Users\jorge\UC Berkeley\OMlab - JOM\Code\ocular-motor-lab.github.io\_publications\' sprintf('%s.md',filename)],'w');
+    fid = fopen(['C:\Users\jorge\UC Berkeley\OMlab - JOM\Code\ocular-motor-lab.github.io\_publications\' sprintf('%s.md',filename)],'w', 'native', 'UTF-8');
     for jj = 1 : size( lines, 1 )
         fprintf( fid, '%s\n', lines{jj,1} );
     end
