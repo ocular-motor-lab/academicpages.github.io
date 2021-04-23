@@ -25,4 +25,4 @@ Anisometropic group had less residual amblyopia (0.23±0.19logMAR acuity) compar
 Conclusions
 Assessment of FEM waveforms and fast and slow FEM characteristics are important measures while describing fixation instability in amblyopia. Several FEM abnormalities were associated with stereo-acuity and visual acuity deficits and treatment duration in patients with amblyopia treated with part time patching therapy.
 
-Link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237346
+Link: [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237346](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237346)

@@ -21,4 +21,4 @@ Methods: Twenty-one amblyopic children with varying severity of amblyopia and 10
 Results: Both patients with and without LN were able to spot the same number of differences but took longer during fellow eye viewing compared to controls. The ability to identify differences was diminished during amblyopic eye viewing particularly those with LN and severe amblyopia. We found reduced frequencies of microsaccades and saccades in both amblyopic and fellow eyes during fixation and visual search but not during exploration of blank scene. Across all tasks, amblyopes with LN had increased intersaccadic drifts.
 Conclusions: Our findings suggest that deficient microsaccade and saccadic activity contributes to poorer sampling strategy in amblyopia, which is seen in both amblyopic and fellow eye. These deficits are more notable among subjects who experienced binocular decorrelation earlier in life, with subsequent development of LN.
 
-Link: https://iovs.arvojournals.org/article.aspx?articleid=2702314
+Link: [https://iovs.arvojournals.org/article.aspx?articleid=2702314](https://iovs.arvojournals.org/article.aspx?articleid=2702314)

@@ -65,7 +65,7 @@ lines ={
         ''
         ['Abstract: ' abstract]
         ''
-        ['Link: ' papers.Link{i}]
+        ['Link: [' papers.Link{i} '](' papers.Link{i} ')']
         };
 
     fid = fopen(['C:\Users\jorge\UC Berkeley\OMlab - JOM\Code\ocular-motor-lab.github.io\_publications\' sprintf('%s.md',filename)],'w', 'native', 'UTF-8');
