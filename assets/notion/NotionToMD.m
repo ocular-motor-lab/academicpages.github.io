@@ -120,7 +120,7 @@ text = strrep(text,'“','');
 text = strrep(text,'”','');
 text = strrep(text,'’','''');
 text = strrep(text,'','fi');
-text = strrep(text,'±','&#177');
+text = strrep(text,'±','&#177;');
 
 scapes = '\`*_{[(#+-.!';
 
