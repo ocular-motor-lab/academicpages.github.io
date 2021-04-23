@@ -60,7 +60,7 @@ lines ={
         ''
         ['By: ' authors]
         ''
-        ['Citation: ' authors ' (' num2str(papers.Year(1)) ') ' title  '. ']
+        ['Citation: ' authors ' (' num2str(papers.Year(1)) ') ' title  '. ' citation]
         ''
         ['Abstract: ' ]
         ''
