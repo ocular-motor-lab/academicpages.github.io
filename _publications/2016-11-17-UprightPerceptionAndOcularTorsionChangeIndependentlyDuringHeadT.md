@@ -14,7 +14,7 @@ coloryear: 155,154,151,0.4
 
 By: Otero-Millan & Kheradmand
 
-Citation: Otero-Millan & Kheradmand (2020) Upright Perception and Ocular Torsion Change Independently during Head Tilt.. Front Hum Neurosci\. 2016 Nov 17;10:573\. eCollection 2016\.
+Citation: Otero-Millan & Kheradmand (2020) Upright Perception and Ocular Torsion Change Independently during Head Tilt.. 
 
 Abstract: 
 

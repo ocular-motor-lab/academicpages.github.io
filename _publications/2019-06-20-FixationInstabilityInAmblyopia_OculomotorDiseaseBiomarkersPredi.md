@@ -14,7 +14,7 @@ coloryear: 233,168,0,0.2
 
 By: Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia
 
-Citation: Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia (2020) Fixation instability in amblyopia: Oculomotor disease biomarkers predictive of treatment effectiveness.. Prog Brain Res\. 2019;249:235\-248\. 
+Citation: Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia (2020) Fixation instability in amblyopia: Oculomotor disease biomarkers predictive of treatment effectiveness.. 
 
 Abstract: 
 

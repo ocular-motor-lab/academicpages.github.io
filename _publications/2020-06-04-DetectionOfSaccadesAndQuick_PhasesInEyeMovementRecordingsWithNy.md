@@ -14,7 +14,7 @@ coloryear: 0,135,107,0.2
 
 By: Punugati & Otero-Millan
 
-Citation: Punugati & Otero-Millan (2020) Detection of Saccades and Quick-Phases in Eye Movement Recordings with Nystagmus. ETRA '20 Short Papers: ACM Symposium on Eye Tracking Research and Applications\. 2020;8:1–5
+Citation: Punugati & Otero-Millan (2020) Detection of Saccades and Quick-Phases in Eye Movement Recordings with Nystagmus. 
 
 Abstract: 
 

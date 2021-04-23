@@ -14,7 +14,7 @@ coloryear: 155,154,151,0.4
 
 By: Troncoso, Tse, Macknik, Gideon P. Caplovitz, Paul J, Alex A, Jorge & Martinez-Conde
 
-Citation: Troncoso, Tse, Macknik, Gideon P. Caplovitz, Paul J, Alex A, Jorge & Martinez-Conde (2020) BOLD activation varies parametrically with corner angle throughout human retinotopic cortex.. Perception\. 2007;36\(6):808\-20\.
+Citation: Troncoso, Tse, Macknik, Gideon P. Caplovitz, Paul J, Alex A, Jorge & Martinez-Conde (2020) BOLD activation varies parametrically with corner angle throughout human retinotopic cortex.. 
 
 Abstract: 
 
