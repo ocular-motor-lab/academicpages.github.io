@@ -1,0 +1,21 @@
+---
+title: "A decade of magnetic vestibular stimulation: from serendipity to physics to the clinic."
+collection: publications
+permalink: /publication/2019-04-10-ADecadeOfMagneticVestibularStimulation_FromSerendipityToPhysics
+excerpt: 'ABSTRACT.'
+date: Apr 10, 2019
+venue: 'J Neurophysiol'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'a'
+authors: 'Ward, Roberts, Otero-Millan & Zee'
+year: '2019'
+coloryear: 233,168,0,0.2
+---
+
+By: Ward, Roberts, Otero-Millan & Zee
+
+Citation: Ward, Roberts, Otero-Millan & Zee (2020) A decade of magnetic vestibular stimulation: from serendipity to physics to the clinic.. J Neurophysiol. 2019 Jun 1;121(6):2013-2019. 
+
+Abstract: 
+
+Link: 

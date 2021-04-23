@@ -1,0 +1,21 @@
+---
+title: "Saccades and microsaccades during visual fixation, exploration, and search: foundations for a common saccadic generator."
+collection: publications
+permalink: /publication/2008-12-18-SaccadesAndMicrosaccadesDuringVisualFixation_Exploration_AndSea
+excerpt: 'ABSTRACT.'
+date: Dec 18, 2008
+venue: 'JoV'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'a'
+authors: 'Otero-Millan, Troncoso, Macknik, Serrano-Pedraza & Martinez-Conde'
+year: '2008'
+coloryear: 140,46,0,0.2
+---
+
+By: Otero-Millan, Troncoso, Macknik, Serrano-Pedraza & Martinez-Conde
+
+Citation: Otero-Millan, Troncoso, Macknik, Serrano-Pedraza & Martinez-Conde (2020) Saccades and microsaccades during visual fixation, exploration, and search: foundations for a common saccadic generator.. J Vis. 2008 Dec 18;8(14):21.1-18. 
+
+Abstract: 
+
+Link: 
