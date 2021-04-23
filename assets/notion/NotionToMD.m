@@ -59,9 +59,9 @@ lines ={
         ''
         ['By: ' authors]
         ''
-        ['Citation: ' authors ' (' num2str(papers.Year(1)) ') ' title  '. ' citation]
+        ['Citation: ' authors ' (' num2str(papers.Year(i)) ') ' title  '. ' citation]
         ''
-        ['Abstract: ' ]
+        ['Abstract: ' MarkdownScape(papers.Abstract{i})]
         ''
         ['Link: ' ]
         };

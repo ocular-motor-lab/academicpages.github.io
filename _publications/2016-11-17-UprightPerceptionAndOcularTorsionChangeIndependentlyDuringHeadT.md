@@ -14,8 +14,8 @@ coloryear: 155,154,151,0.4
 
 By: Otero-Millan & Kheradmand
 
-Citation: Otero-Millan & Kheradmand (2020) Upright Perception and Ocular Torsion Change Independently during Head Tilt.. Front Hum Neurosci. 2016 Nov 17;10:573. eCollection 2016.
+Citation: Otero-Millan & Kheradmand (2016) Upright Perception and Ocular Torsion Change Independently during Head Tilt.. Front Hum Neurosci. 2016 Nov 17;10:573. eCollection 2016.
 
-Abstract: 
+Abstract: We maintain a stable perception of the visual world despite continuous movements of our eyes, head and body. Perception of upright is a key aspect of such orientation constancy. Here we investigated whether changes in upright perception during sustained head tilt were related to simultaneous changes in torsional position of the eyes. We used a subjective visual vertical (SVV) task, modified to track changes in upright perception over time, and a custom video method to measure ocular torsion simultaneously. We tested 12 subjects in upright position, during prolonged (~15 min) lateral head tilts of 20 degrees, and also after the head returned to upright position. While the head was tilted, SVV drifted in the same direction as the head tilt (left tilt: 5.4 ± 1.4° and right tilt: +2.2 ± 2.1°). After the head returned to upright position, there was an SVV aftereffect with respect to the pre-tilt baseline, which was also in the same direction as the head tilt (left tilt: 3.9 ± 0.6° and right tilt: +2.55 ± 1.0°). Neither the SVV drift nor the SVV aftereffect were correlated with the changes in ocular torsion. Using the Bayesian spatial-perception model we show that the pattern of SVV drift and aftereffect in our results could be explained by a drift and an adaptation in sensory inputs that encode head orientation. The fact that ocular torsion (mainly driven by the otoliths) could not account for the perceptual changes suggests that neck proprioception could be the primary source of drift in upright perception during head tilt, and subsequently the aftereffect in upright position.
 
 Link: 
