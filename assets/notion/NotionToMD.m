@@ -59,13 +59,17 @@ lines ={
         ['coloryear: ' coloryear]
         '---'
         ''
-        ['By: ' authors]
+        '###By: ' 
+        authors
         ''
-        ['Citation: ' authors ' (' num2str(papers.Year(i)) ') ' title  '. ' citation]
+        '###Citation: ' 
+        [authors ' (' num2str(papers.Year(i)) ') ' title  '. ' citation]
         ''
-        ['Abstract: ' abstract]
+        '###Abstract: '
+        abstract
         ''
-        ['Link: [' papers.Link{i} '](' papers.Link{i} ')']
+        ['###Full article: ']
+        ['[' papers.Link{i} '](' papers.Link{i} ')']
         };
 
     fid = fopen(['C:\Users\jorge\UC Berkeley\OMlab - JOM\Code\ocular-motor-lab.github.io\_publications\' sprintf('%s.md',filename)],'w', 'native', 'UTF-8');

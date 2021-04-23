@@ -1,10 +1,10 @@
 %%
 papers = readtable('Publication pipeline 29c020d9669848ab978c1247833d386f.csv');
 papers.Status = categorical(papers.Status);
-papers(papers.Status ~= 'Published ',:) = [];
+papers(papers.Status ~= 'Published ' | ismissing(papers.Year),:) = [];
 
 for i=1:height(papers)
-    i
+    
 %     lines ={
 %         '---'
 %         ['title: "' papers.Title{i} '"']
@@ -28,9 +28,7 @@ for i=1:height(papers)
 title = strrep(papers.Title{i},'“','');
 title = strrep(title,'”','');
 
-citation = strrep(papers.Citation{i},'''','');
-citation = strrep(citation,'(','');
-citation = strrep(citation,')','');
+citation = MarkdownScape(papers.Citation{i});
 
 authors = strrep(papers.AuthorsText{i},'ñ','n');
 s = strsplit(authors,', ');
@@ -43,7 +41,10 @@ colors  ={'155,154,151,0.4', '140,46,0,0.2', '245,93,0,0.2', '233,168,0,0.2', '0
 
 coloryear = colors{mod(papers.Year(i),length(colors))+1};
 
-  lines ={
+abstract = MarkdownScape(papers.Abstract{i});
+disp(abstract)
+
+lines ={
         '---'
         ['title: "' title '"']
         'collection: publications'
@@ -58,16 +59,16 @@ coloryear = colors{mod(papers.Year(i),length(colors))+1};
         ['coloryear: ' coloryear]
         '---'
         ''
-        ['By: ' authors]
+        ['###By: ' authors]
         ''
-        ['Citation: ' authors ' (' num2str(papers.Year(1)) ') ' title  '. ' citation]
+        ['###Citation: ' authors ' (' num2str(papers.Year(i)) ') ' title  '. ' citation]
         ''
-        ['Abstract: ' ]
+        ['###Abstract: ' abstract]
         ''
-        ['Link: ' ]
+        ['###Full article: [' papers.Link{i} '](' papers.Link{i} ')']
         };
 
-    fid = fopen(['C:\Users\jorge\UC Berkeley\OMlab - JOM\Code\ocular-motor-lab.github.io\_publications\' sprintf('%s.md',filename)],'w');
+    fid = fopen(['C:\Users\jorge\UC Berkeley\OMlab - JOM\Code\ocular-motor-lab.github.io\_publications\' sprintf('%s.md',filename)],'w', 'native', 'UTF-8');
     for jj = 1 : size( lines, 1 )
         fprintf( fid, '%s\n', lines{jj,1} );
     end
@@ -110,3 +111,19 @@ end
 %         'Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
 %         
 %         };
+
+function  text = MarkdownScape(text)
+text = strrep(text,'–','-');
+text = strrep(text,'?','-');
+text = strrep(text,'“','');
+text = strrep(text,'”','');
+text = strrep(text,'’','''');
+text = strrep(text,'','fi');
+% text = strrep(text,'±','&#177;');
+
+scapes = '\`*_{[(#+-.!';
+
+for i=1:length(scapes)
+%     text = strrep(text,scapes(i),['\' scapes(i)]);
+end
+end

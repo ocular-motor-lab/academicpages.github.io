@@ -12,10 +12,14 @@ year: '2020'
 coloryear: 0,135,107,0.2
 ---
 
-By: Green, Pogson, Otero-Millan, Gold, Tevzadze, Teharani, Zee, Newman-Toker & Kheradmand
+###By: 
+Green, Pogson, Otero-Millan, Gold, Tevzadze, Teharani, Zee, Newman-Toker & Kheradmand
 
-Citation: Green, Pogson, Otero-Millan, Gold, Tevzadze, Teharani, Zee, Newman-Toker & Kheradmand (2020) Remote evaluation of acute vertigo: Strategies and technological considerations. Neurology Jan 2021, 96 (1) 34-38
+###Citation: 
+Green, Pogson, Otero-Millan, Gold, Tevzadze, Teharani, Zee, Newman-Toker & Kheradmand (2020) Remote evaluation of acute vertigo: Strategies and technological considerations. Neurology Jan 2021, 96 (1) 34-38
 
-Abstract: Patients with acute vestibular disorders are often a diagnostic challenge for neurologists, especially when the evaluation must be conducted remotely. The clinical dilemma remains: Does the patient have a benign peripheral inner ear problem or a worrisome central vestibular disorder, such as a stroke- The use of a focused history and the virtual HINTS (head impulse test, nystagmus evaluation, and test of skew) examination are key steps towards correctly diagnosing and triaging the acute vertiginous patient. When looking for signs of vestibulo-ocular dysfunction, there are important technological and practical considerations for an effective clinical interpretation.
+###Abstract: 
+Patients with acute vestibular disorders are often a diagnostic challenge for neurologists, especially when the evaluation must be conducted remotely. The clinical dilemma remains: Does the patient have a benign peripheral inner ear problem or a worrisome central vestibular disorder, such as a stroke- The use of a focused history and the virtual HINTS (head impulse test, nystagmus evaluation, and test of skew) examination are key steps towards correctly diagnosing and triaging the acute vertiginous patient. When looking for signs of vestibulo-ocular dysfunction, there are important technological and practical considerations for an effective clinical interpretation.
 
-Link: [https://n.neurology.org/content/96/1/34.abstract](https://n.neurology.org/content/96/1/34.abstract)
+###Full article: 
+[https://n.neurology.org/content/96/1/34.abstract](https://n.neurology.org/content/96/1/34.abstract)

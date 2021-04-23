@@ -12,11 +12,14 @@ year: '2020'
 coloryear: 0,135,107,0.2
 ---
 
-By: Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia
+###By: 
+Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia
 
-Citation: Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia (2020) Part time patching treatment outcomes in children with amblyopia with and without Fusion Maldevelopment Nystagmus: an eye movement study.. PLOS ONE 15(8): e0237346.
+###Citation: 
+Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia (2020) Part time patching treatment outcomes in children with amblyopia with and without Fusion Maldevelopment Nystagmus: an eye movement study.. PLOS ONE 15(8): e0237346.
 
-Abstract: Purpose
+###Abstract: 
+Purpose
 We investigated how the abnormalities of fixation eye movements (FEMs) of the amblyopic eye were linked with treatment outcomes following part-time patching therapy in children with amblyopia.
 Methods
 We recruited 53 patients, with at least 12 months of patching, and measured FEMs at the end of treatment. Subjects were classified based on FEM waveforms (those without nystagmus = 21, those with nystagmus without fusion maldevelopment nystagmus (FMN) = 21, and those with FMN = 11) and based on clinical type of amblyopia (anisometropic = 18, strabismic = 6, and mixed = 29). The treatment outcomes such as duration of treatment of receiving part-time patching therapy, visual acuity and stereo-acuity deficits at the end of treatment were determined. Bivariate contour ellipse area (BCEA), fast (fixational saccade/quick phases), and slow (inter-saccadic drifts/slow phases) FEMs of the fellow and amblyopic eye were analyzed.
@@ -25,4 +28,5 @@ Anisometropic group had less residual amblyopia (0.23±0.19logMAR acuity) compar
 Conclusions
 Assessment of FEM waveforms and fast and slow FEM characteristics are important measures while describing fixation instability in amblyopia. Several FEM abnormalities were associated with stereo-acuity and visual acuity deficits and treatment duration in patients with amblyopia treated with part time patching therapy.
 
-Link: [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237346](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237346)
+###Full article: 
+[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237346](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237346)
