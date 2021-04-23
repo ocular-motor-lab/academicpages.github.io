@@ -111,8 +111,12 @@ end
 %         };
 
 function  text = MarkdownScape(text)
-scapes = '\`*_{[(#+-.!';
 text = strrep(text,'–','-');
+text = strrep(text,'“','');
+text = strrep(text,'”','');
+
+scapes = '\`*_{[(#+-.!';
+
 for i=1:length(scapes)
 %     text = strrep(text,scapes(i),['\' scapes(i)]);
 end
