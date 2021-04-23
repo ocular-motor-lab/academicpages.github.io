@@ -14,7 +14,7 @@ coloryear: 245,93,0,0.2
 
 By: Winnick, Sadeghpour, Otero-Millan, Chang & Kheradmand
 
-Citation: Winnick, Sadeghpour, Otero-Millan, Chang & Kheradmand (2020) Errors of Upright Perception in Patients With Vestibular Migraine.. 
+Citation: Winnick, Sadeghpour, Otero-Millan, Chang & Kheradmand (2020) Errors of Upright Perception in Patients With Vestibular Migraine.. Front Neurol\. 2018 Oct 30;9:892\. 
 
 Abstract: 
 

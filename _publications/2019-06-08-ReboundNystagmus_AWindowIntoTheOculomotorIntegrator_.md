@@ -14,7 +14,7 @@ coloryear: 233,168,0,0.2
 
 By: Otero-Millan, Colpak, Kheradmand & Zee
 
-Citation: Otero-Millan, Colpak, Kheradmand & Zee (2020) Rebound nystagmus, a window into the oculomotor integrator.. 
+Citation: Otero-Millan, Colpak, Kheradmand & Zee (2020) Rebound nystagmus, a window into the oculomotor integrator.. Prog Brain Res\. 2019;249:197\-209\. 
 
 Abstract: 
 

@@ -14,7 +14,7 @@ coloryear: 0,135,107,0.2
 
 By: Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia
 
-Citation: Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia (2020) Part time patching treatment outcomes in children with amblyopia with and without Fusion Maldevelopment Nystagmus: an eye movement study.. 
+Citation: Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia (2020) Part time patching treatment outcomes in children with amblyopia with and without Fusion Maldevelopment Nystagmus: an eye movement study.. PLOS ONE 15\(8): e0237346\.
 
 Abstract: 
 

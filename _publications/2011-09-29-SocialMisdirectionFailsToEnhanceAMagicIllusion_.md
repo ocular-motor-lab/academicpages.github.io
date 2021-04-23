@@ -14,7 +14,7 @@ coloryear: 0,135,107,0.2
 
 By: Cui, Otero-Millan, Macknik, King & Martinez-Conde
 
-Citation: Cui, Otero-Millan, Macknik, King & Martinez-Conde (2020) Social misdirection fails to enhance a magic illusion.. 
+Citation: Cui, Otero-Millan, Macknik, King & Martinez-Conde (2020) Social misdirection fails to enhance a magic illusion.. Front Hum Neurosci\. 2011 Sep 29;5:103\. 
 
 Abstract: 
 

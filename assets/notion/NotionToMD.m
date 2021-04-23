@@ -28,9 +28,7 @@ for i=1:height(papers)
 title = strrep(papers.Title{i},'“','');
 title = strrep(title,'”','');
 
-citation = strrep(papers.Citation{i},'''','');
-citation = strrep(citation,'(','');
-citation = strrep(citation,')','');
+citation = MarkdownScape(papers.Citation{i});
 disp(citation)
 
 authors = strrep(papers.AuthorsText{i},'ñ','n');
@@ -61,7 +59,7 @@ lines ={
         ''
         ['By: ' authors]
         ''
-        ['Citation: ' authors ' (' num2str(papers.Year(1)) ') ' title  '. ']
+        ['Citation: ' authors ' (' num2str(papers.Year(1)) ') ' title  '. ' citation]
         ''
         ['Abstract: ' ]
         ''
@@ -111,3 +109,10 @@ end
 %         'Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
 %         
 %         };
+
+function  text = MarkdownScape(text)
+scapes = '\`*_{[(#+-.!';
+for i=1:length(scapes)
+    text = strrep(text,scapes(i),['\' scapes(i)]);
+end
+end

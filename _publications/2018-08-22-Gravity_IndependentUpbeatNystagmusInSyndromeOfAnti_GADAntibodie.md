@@ -14,7 +14,7 @@ coloryear: 233,168,0,0.2
 
 By: Feldman, Otero-Millan & Shaikh
 
-Citation: Feldman, Otero-Millan & Shaikh (2020) Gravity-Independent Upbeat Nystagmus in Syndrome of Anti-GAD Antibodies.. 
+Citation: Feldman, Otero-Millan & Shaikh (2020) Gravity-Independent Upbeat Nystagmus in Syndrome of Anti-GAD Antibodies.. Cerebellum\. 2019 Apr;18\(2):287\-290\. 
 
 Abstract: 
 

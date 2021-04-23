@@ -14,7 +14,7 @@ coloryear: 255,0,26,0.2
 
 By: McCamy, Otero-Millan, Leigh, King, Schneider, Macknik & Martinez-Conde
 
-Citation: McCamy, Otero-Millan, Leigh, King, Schneider, Macknik & Martinez-Conde (2020) Simultaneous recordings of human microsaccades and drifts with a contemporary video eye tracker and the search coil technique.. 
+Citation: McCamy, Otero-Millan, Leigh, King, Schneider, Macknik & Martinez-Conde (2020) Simultaneous recordings of human microsaccades and drifts with a contemporary video eye tracker and the search coil technique.. PLoS One\. 2015 Jun 2;10\(6):e0128428\. 
 
 Abstract: 
 

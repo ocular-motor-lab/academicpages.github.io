@@ -14,7 +14,7 @@ coloryear: 233,168,0,0.2
 
 By: Martinez-Conde, McCamy, Troncoso, Otero-Millan & Macknik
 
-Citation: Martinez-Conde, McCamy, Troncoso, Otero-Millan & Macknik (2020) Area V1 responses to illusory corner-folds in Vasarely's nested squares and the Alternating Brightness Star illusions.. 
+Citation: Martinez-Conde, McCamy, Troncoso, Otero-Millan & Macknik (2020) Area V1 responses to illusory corner-folds in Vasarely's nested squares and the Alternating Brightness Star illusions.. PLoS One\. 2019 Mar 28;14\(3):e0210941\. 
 
 Abstract: 
 
