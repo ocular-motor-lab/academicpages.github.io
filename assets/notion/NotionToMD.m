@@ -1,5 +1,5 @@
 %%
-papers = readtable('Publication pipeline 29c020d9669848ab978c1247833d386f.csv', 'encoding','UTF-8');
+papers = readtable('Publication pipeline 29c020d9669848ab978c1247833d386f.csv');
 papers.Status = categorical(papers.Status);
 papers(papers.Status ~= 'Published ' | ismissing(papers.Year),:) = [];
 
