@@ -3,8 +3,7 @@ papers = readtable('Publication pipeline 29c020d9669848ab978c1247833d386f.csv');
 papers.Status = categorical(papers.Status);
 papers(papers.Status ~= 'Published ' | ismissing(papers.Year),:) = [];
 
-for i=1:5
-% for i=1:height(papers)
+for i=1:height(papers)
     
 %     lines ={
 %         '---'
