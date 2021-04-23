@@ -114,6 +114,7 @@ function  text = MarkdownScape(text)
 text = strrep(text,'–','-');
 text = strrep(text,'“','');
 text = strrep(text,'”','');
+text = strrep(text,'’','''');
 
 scapes = '\`*_{[(#+-.!';
 
