@@ -59,16 +59,16 @@ lines ={
         ['coloryear: ' coloryear]
         '---'
         ''
-        '###By: ' 
+        '### By: ' 
         authors
         ''
-        '###Citation: ' 
+        '### Citation: ' 
         [authors ' (' num2str(papers.Year(i)) ') ' title  '. ' citation]
         ''
-        '###Abstract: '
+        '### Abstract: '
         abstract
         ''
-        ['###Full article: ']
+        ['### Full article: ']
         ['[' papers.Link{i} '](' papers.Link{i} ')']
         };
 

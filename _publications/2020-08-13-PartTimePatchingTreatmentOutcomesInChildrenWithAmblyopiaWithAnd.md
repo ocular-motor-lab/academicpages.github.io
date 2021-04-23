@@ -12,13 +12,13 @@ year: '2020'
 coloryear: 0,135,107,0.2
 ---
 
-###By: 
+### By: 
 Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia
 
-###Citation: 
+### Citation: 
 Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia (2020) Part time patching treatment outcomes in children with amblyopia with and without Fusion Maldevelopment Nystagmus: an eye movement study.. PLOS ONE 15(8): e0237346.
 
-###Abstract: 
+### Abstract: 
 Purpose
 We investigated how the abnormalities of fixation eye movements (FEMs) of the amblyopic eye were linked with treatment outcomes following part-time patching therapy in children with amblyopia.
 Methods
@@ -28,5 +28,5 @@ Anisometropic group had less residual amblyopia (0.23±0.19logMAR acuity) compar
 Conclusions
 Assessment of FEM waveforms and fast and slow FEM characteristics are important measures while describing fixation instability in amblyopia. Several FEM abnormalities were associated with stereo-acuity and visual acuity deficits and treatment duration in patients with amblyopia treated with part time patching therapy.
 
-###Full article: 
+### Full article: 
 [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237346](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237346)

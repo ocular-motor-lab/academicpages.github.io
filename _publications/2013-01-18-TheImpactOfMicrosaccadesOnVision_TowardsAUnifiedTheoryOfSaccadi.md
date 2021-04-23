@@ -12,14 +12,14 @@ year: '2013'
 coloryear: 103,36,222,0.2
 ---
 
-###By: 
+### By: 
 Martinez-Conde, Otero-Millan & Macknik
 
-###Citation: 
+### Citation: 
 Martinez-Conde, Otero-Millan & Macknik (2013) The impact of microsaccades on vision: towards a unified theory of saccadic function.. Nat Rev Neurosci. 2013 Feb;14(2):83-96. 
 
-###Abstract: 
+### Abstract: 
 When we attempt to fix our gaze, our eyes nevertheless produce so-called 'fixational eye movements', which include microsaccades, drift and tremor. Fixational eye movements thwart neural adaptation to unchanging stimuli and thus prevent and reverse perceptual fading during fixation. Over the past 10 years, microsaccade research has become one of the most active fields in visual, oculomotor and even cognitive neuroscience. The similarities and differences between microsaccades and saccades have been a most intriguing area of study, and the results of this research are leading us towards a unified theory of saccadic and microsaccadic function.
 
-###Full article: 
+### Full article: 
 [http://www.nature.com/nrn/journal/v14/n2/abs/nrn3405.html](http://www.nature.com/nrn/journal/v14/n2/abs/nrn3405.html)
