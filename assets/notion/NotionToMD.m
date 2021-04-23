@@ -62,11 +62,11 @@ lines ={
         '### By: ' 
         authors
         ''
-        '### Citation: ' 
-        [authors ' (' num2str(papers.Year(i)) ') ' title  '. ' citation]
-        ''
         '### Abstract: '
         abstract
+        ''
+        '### Citation: ' 
+        [authors ' (' num2str(papers.Year(i)) ') ' title  '. ' citation]
         ''
         ['### Full article: ']
         ['[' papers.Link{i} '](' papers.Link{i} ')']
