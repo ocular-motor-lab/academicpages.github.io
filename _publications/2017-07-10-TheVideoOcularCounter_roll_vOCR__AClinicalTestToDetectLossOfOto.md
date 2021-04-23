@@ -25,4 +25,4 @@ VOG was used to measure ocular counter-roll (vOCR) in 12 healthy controls, 14 pa
 Results
 The average vOCR for healthy controls (4.6°) was significantly different from UVL (2.7°) and BVL (1.6°) patients (p < 0.0001). The vOCR and VEMP measurements were correlated across subjects, especially the click and tap oVEMPs (click oVEMP R = 0.45, tap oVEMP R = 0.51; p < 0.0003). The receiver operator characteristic (ROC) analysis showed that vOCR and VEMPs detected loss of otolith function equally well. The best threshold for vOCR to detect vestibular loss was at 3°. The vOCR values from the side of vestibular loss and the healthy side were not different in UVL patients (2.53° vs 2.8°; p = 0.59).
 
-Link: 
+Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5502765/

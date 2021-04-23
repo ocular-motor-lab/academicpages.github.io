@@ -18,4 +18,4 @@ Citation: Green, Pogson, Otero-Millan, Gold, Tevzadze, Teharani, Zee, Newman-Tok
 
 Abstract: Patients with acute vestibular disorders are often a diagnostic challenge for neurologists, especially when the evaluation must be conducted remotely. The clinical dilemma remains: Does the patient have a benign peripheral inner ear problem or a worrisome central vestibular disorder, such as a stroke- The use of a focused history and the virtual HINTS (head impulse test, nystagmus evaluation, and test of skew) examination are key steps towards correctly diagnosing and triaging the acute vertiginous patient. When looking for signs of vestibulo-ocular dysfunction, there are important technological and practical considerations for an effective clinical interpretation.
 
-Link: 
+Link: https://n.neurology.org/content/96/1/34.abstract
