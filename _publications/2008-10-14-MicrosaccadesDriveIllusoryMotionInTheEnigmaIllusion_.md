@@ -13,7 +13,7 @@ coloryear: 140,46,0,0.2
 ---
 
 ### By: 
-Troncoso, Macknik, Otero-Millan & Martinez-Conde
+Xoana G Troncoso, Stephen L Macknik, Jorge Otero-Millan & Susana Martinez-Conde
 
 ### Abstract: 
 Visual images consisting of repetitive patterns can elicit striking illusory motion percepts. For almost 200 years, artists, psychologists, and neuroscientists have debated whether this type of illusion originates in the eye or in the brain. For more than a decade, the controversy has centered on the powerful illusory motion perceived in the painting , created by op-artist Isia Leviant. However, no previous study has directly correlated the illusion to any specific physiological mechanism, and so the debate rages on. Here, we show that microsaccades, a type of miniature eye movement produced during visual fixation, can drive illusory motion in . We asked subjects to indicate when illusory motion sped up or slowed down during the observation of while we simultaneously recorded their eye movements with high precision. Before faster motion periods, the rate of microsaccades increased. Before slower/no motion periods, the rate of microsaccades decreased. These results reveal a direct link between microsaccade production and the perception of illusory motion in and rule out the hypothesis that the origin of the illusion is purely cortical.

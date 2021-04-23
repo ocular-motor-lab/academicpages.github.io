@@ -30,9 +30,16 @@ title = strrep(title,'”','');
 
 citation = MarkdownScape(papers.Citation{i});
 
-authors = strrep(papers.AuthorsText{i},'ñ','n');
-s = strsplit(authors,', ');
+authorsfull = strrep(papers.AuthorsText{i},'ñ','n');
+s = strsplit(authorsfull,', ');
 authors = strjoin([strjoin(s(1:2:end-2),', '),s(end-1:2:end)],' & ');
+
+ss = {};
+for is=1:length(s)/2
+    ss{is} = [s{2*is} ' ' s{2*is-1}];
+end
+authorsfull = strjoin([strjoin(ss(1:1:end-1),', '),ss(end)],' & ');
+disp(authorsfull);
 
 filename = strcat(datestr(datenum(papers.PublicationDate{i}),'yyyy-mm-dd'),'-', matlab.lang.makeValidName(title));
 
@@ -42,7 +49,6 @@ colors  ={'155,154,151,0.4', '140,46,0,0.2', '245,93,0,0.2', '233,168,0,0.2', '0
 coloryear = colors{mod(papers.Year(i),length(colors))+1};
 
 abstract = MarkdownScape(papers.Abstract{i});
-disp(abstract)
 
 lines ={
         '---'
@@ -60,7 +66,7 @@ lines ={
         '---'
         ''
         '### By: ' 
-        authors
+        authorsfull
         ''
         '### Abstract: '
         abstract

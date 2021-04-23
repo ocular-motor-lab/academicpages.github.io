@@ -13,7 +13,7 @@ coloryear: 0,135,107,0.2
 ---
 
 ### By: 
-Scaramuzzi, Murray, Otero-Millan, Nucci, Shaikh & Ghasia
+Matteo Scaramuzzi, Jordan Murray, Jorge Otero-Millan, Paolo Nucci, Aasef G Shaikh & Fatema F Ghasia
 
 ### Abstract: 
 Purpose

@@ -13,7 +13,7 @@ coloryear: 155,154,151,0.4
 ---
 
 ### By: 
-Kheradmand, Gonzalez, Otero-Millan & Lasker
+Amir Kheradmand, G Gonzalez, Jorge Otero-Millan & Adrian Lasker
 
 ### Abstract: 
 BACKGROUND: Perception of upright is often assessed by aligning a luminous line to the subjective visual vertical (SVV).

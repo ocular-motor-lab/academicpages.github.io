@@ -13,7 +13,7 @@ coloryear: 0,120,223,0.2
 ---
 
 ### By: 
-Sadeghpour, Fornasari, Otero-Millan, Carey, Zee & Kheradmand
+Shirin Sadeghpour, Francesco Fornasari, Jorge Otero-Millan, John P Carey, David S Zee & Amir Kheradmand
 
 ### Abstract: 
 Importance Video-oculography (VOG) goggles have been integrated into the assessment of semicircular canal function in patients with vestibular disorders. However, a similar bedside VOG method for testing otolith function is lacking.

@@ -13,7 +13,7 @@ coloryear: 155,154,151,0.4
 ---
 
 ### By: 
-Jareonsettasin, Otero-Millan, Ward, Roberts, Schubert & Zee
+Prem Jareonsettasin, Jorge Otero-Millan, Bryan K Ward, Dale C Roberts, Michael Schubert & David S Zee
 
 ### Abstract: 
 Summary

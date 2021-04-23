@@ -13,7 +13,7 @@ coloryear: 245,93,0,0.2
 ---
 
 ### By: 
-Chen, Otero-Millan, Kumar, Shaikh & Ghasia
+Dinah Chen, Jorge Otero-Millan, Priyanka Kumar, Aasef G Shaikh & Fatema F Ghasia
 
 ### Abstract: 
 Purpose: Microsaccades shift the image on the fovea and counteract visual fading. They are also thought to serve as an optimal sampling strategy while viewing complex visual scenes. The goal of our study was to assess visual search in amblyopic children.

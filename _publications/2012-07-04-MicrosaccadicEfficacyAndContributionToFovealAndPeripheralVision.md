@@ -13,7 +13,7 @@ coloryear: 0,120,223,0.2
 ---
 
 ### By: 
-McCamy, Otero-Millan, Macknik, Yang, Troncoso, Baer, Crook & Martinez-Conde
+Michael B McCamy, Jorge Otero-Millan, Stephen L Macknik, Y Yang, Xoana G Troncoso, SM Baer, SM Crook & Susana Martinez-Conde
 
 ### Abstract: 
 Our eyes move constantly, even when we try to fixate our gaze. Fixational eye movements prevent and restore visual loss during fixation, yet the relative impact of each type of fixational eye movement remains controversial. For over five decades, the debate has focused on microsaccades, the fastest and largest fixational eye movements. Some recent studies have concluded that microsaccades counteract visual fading during fixation. Other studies have disputed this idea, contending that microsaccades play no significant role in vision. The disagreement stems from the lack of methods to determine the precise effects of microsaccades on vision versus those of other eye movements, as well as a lack of evidence that microsaccades are relevant to foveal vision. Here we developed a novel generalized method to determine the precise quantified contribution and efficacy of human microsaccades to restoring visibility compared with other eye movements. Our results indicate that microsaccades are the greatest eye movement contributor to the restoration of both foveal and peripheral vision during fixation. Our method to calculate the efficacy and contribution of microsaccades to perception can determine the strength of connection between any two physiological and/or perceptual events, providing a novel and powerful estimate of causal influence; thus, we anticipate wide-ranging applications in neuroscience and beyond.

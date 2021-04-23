@@ -13,7 +13,7 @@ coloryear: 233,168,0,0.2
 ---
 
 ### By: 
-Kheradmand & Otero-Millan
+Amir Kheradmand & Jorge Otero-Millan
 
 ### Abstract: 
 Perception of spatial orientation is generated through multimodal sensory integration. In this process, there are systematic errors with changes in the head or body position, which reflect challenges for the brain in maintaining a common sensory reference frame for spatial orientation. Here, we focus on this multisensory aspect of spatial orientation. We review a Bayesian spatial perception model that can be used as a framework to study sensory contributions to spatial orientation during lateral head tilts and probe neural networks involved in this process.

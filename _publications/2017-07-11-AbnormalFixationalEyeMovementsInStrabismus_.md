@@ -13,7 +13,7 @@ coloryear: 245,93,0,0.2
 ---
 
 ### By: 
-Ghasia, Otero-Millan & Shaikh
+Fatema F Ghasia, Jorge Otero-Millan & Aasef G Shaikh
 
 ### Abstract: 
 Introduction Fixational saccades are miniature eye movements that constantly change the gaze during attempted visual fixation. Visually guided saccades and fixational saccades represent an oculomotor continuum and are produced by common neural machinery. Patients with strabismus have disconjugate binocular horizontal saccades. We examined the stability and variability of eye position during fixation in patients with strabismus and correlated the severity of fixational instability with strabismus angle and binocular vision.

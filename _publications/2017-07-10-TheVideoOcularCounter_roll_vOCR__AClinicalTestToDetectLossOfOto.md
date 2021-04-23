@@ -13,7 +13,7 @@ coloryear: 140,46,0,0.2
 ---
 
 ### By: 
-Otero-Millan, Trevino, Winnick, Zee, Carey & Kheradmand
+Jorge Otero-Millan, Carolina Trevino, Ariel Winnick, David S Zee, John P Carey & Amir Kheradmand
 
 ### Abstract: 
 Conclusion

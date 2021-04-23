@@ -13,7 +13,7 @@ coloryear: 221,0,129,0.2
 ---
 
 ### By: 
-Costela, Otero-Millan, McCamy, Macknik, Troncoso, Najafian Jazi, Crook & Martinez-Conde
+Francisco M Costela, Jorge Otero-Millan, Michael B McCamy, Stephen L Macknik, Xoana G Troncoso, Ali Najafian Jazi, SM Crook & Susana Martinez-Conde
 
 ### Abstract: 
 Our eyes move continuously. Even when we attempt to fix our gaze, we produce fixational eye movements including microsaccades, drift and tremor. The potential role of microsaccades versus drifts in the control of eye position has been debated for decades and remains in question today. Here we set out to determine the corrective functions of microsaccades and drifts on gaze-position errors due to blinks in non-human primates (Macaca mulatta) and humans. Our results show that blinks contribute to the instability of gaze during fixation, and that microsaccades, but not drifts, correct fixation errors introduced by blinks. These findings provide new insights about eye position control during fixation, and indicate a more general role of microsaccades in fixation correction than thought previously.

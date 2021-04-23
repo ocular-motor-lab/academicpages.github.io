@@ -13,7 +13,7 @@ coloryear: 140,46,0,0.2
 ---
 
 ### By: 
-Otero-Millan, Zee, Schubert, Roberts & Ward
+Jorge Otero-Millan, David S Zee, Michael Schubert, Dale C Roberts & Bryan K Ward
 
 ### Abstract: 
 Human subjects placed in strong magnetic fields such as in an MRI scanner often feel dizzy or vertiginous. Recent studies in humans and animals have shown that these effects arise from stimulation of the labyrinth and are accompanied by nystagmus. Here, we measured the three-dimensional pattern of nystagmus using video eye tracking in five normal human subjects placed in a 7T MRI to infer which semicircular canals are activated by magnetic vestibular stimulation. We found that the nystagmus usually had a torsional as well as a horizontal component. Analysis of the relative velocities of the three eye movement components revealed that the lateral and anterior (superior) canals are the only canals activated, and by a similar amount.

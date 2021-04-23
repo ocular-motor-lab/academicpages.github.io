@@ -13,7 +13,7 @@ coloryear: 0,135,107,0.2
 ---
 
 ### By: 
-Otero-Millan, Macknik & Martinez-Conde
+Jorge Otero-Millan, Stephen L Macknik & Susana Martinez-Conde
 
 ### Abstract: 
 Illusions developed by magicians are a rich and largely untapped source of insight into perception and cognition. Here we show that curved motion, as employed by the magician in a classic sleight of hand trick, generates stronger misdirection than rectilinear motion, and that this difference can be explained by the differential engagement of the smooth pursuit and the saccadic oculomotor systems. This research exemplifies how the magician's intuitive understanding of the spectator's mindset can surpass that of the cognitive scientist in specific instances, and that observation-based behavioral insights developed by magicians are worthy of quantitative investigation in the neuroscience laboratory.
