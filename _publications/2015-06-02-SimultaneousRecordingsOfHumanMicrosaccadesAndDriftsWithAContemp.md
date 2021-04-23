@@ -3,7 +3,7 @@ title: "Simultaneous recordings of human microsaccades and drifts with a contemp
 collection: publications
 permalink: /publication/2015-06-02-SimultaneousRecordingsOfHumanMicrosaccadesAndDriftsWithAContemp
 excerpt: 'ABSTRACT.'
-date: 2-Jun-15
+date: Jun 2, 2015
 venue: 'PLoS One'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'a'
@@ -14,7 +14,7 @@ coloryear: 255,0,26,0.2
 
 By: McCamy, Otero-Millan, Leigh, King, Schneider, Macknik & Martinez-Conde
 
-Citation: McCamy, Otero-Millan, Leigh, King, Schneider, Macknik & Martinez-Conde (2020) Simultaneous recordings of human microsaccades and drifts with a contemporary video eye tracker and the search coil technique.. 
+Citation: McCamy, Otero-Millan, Leigh, King, Schneider, Macknik & Martinez-Conde (2020) Simultaneous recordings of human microsaccades and drifts with a contemporary video eye tracker and the search coil technique.. PLoS One. 2015 Jun 2;106:e0128428. 
 
 Abstract: 
 

@@ -1,7 +1,7 @@
 %%
 papers = readtable('Publication pipeline 29c020d9669848ab978c1247833d386f.csv');
 papers.Status = categorical(papers.Status);
-papers(papers.Status ~= 'Published ',:) = [];
+papers(papers.Status ~= 'Published ' | ismissing(papers.Year),:) = [];
 
 for i=1:height(papers)
     
@@ -61,7 +61,7 @@ lines ={
         ''
         ['By: ' authors]
         ''
-        ['Citation: ' authors ' (' num2str(papers.Year(1)) ') ' title  '. ']
+        ['Citation: ' authors ' (' num2str(papers.Year(1)) ') ' title  '. ' citation]
         ''
         ['Abstract: ' ]
         ''

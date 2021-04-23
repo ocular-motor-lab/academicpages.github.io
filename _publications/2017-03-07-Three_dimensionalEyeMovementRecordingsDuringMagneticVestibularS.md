@@ -3,7 +3,7 @@ title: "Three-dimensional eye movement recordings during magnetic vestibular sti
 collection: publications
 permalink: /publication/2017-03-07-Three_dimensionalEyeMovementRecordingsDuringMagneticVestibularS
 excerpt: 'ABSTRACT.'
-date: 7-Mar-17
+date: Mar 7, 2017
 venue: 'J Neurol'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'a'
@@ -14,7 +14,7 @@ coloryear: 140,46,0,0.2
 
 By: Otero-Millan, Zee, Schubert, Roberts & Ward
 
-Citation: Otero-Millan, Zee, Schubert, Roberts & Ward (2020) Three-dimensional eye movement recordings during magnetic vestibular stimulation.. 
+Citation: Otero-Millan, Zee, Schubert, Roberts & Ward (2020) Three-dimensional eye movement recordings during magnetic vestibular stimulation.. J Neurol. 2017 Oct;264Suppl 1:7-12. 
 
 Abstract: 
 

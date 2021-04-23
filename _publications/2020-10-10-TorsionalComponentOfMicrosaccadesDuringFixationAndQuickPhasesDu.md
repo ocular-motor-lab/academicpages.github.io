@@ -3,7 +3,7 @@ title: "Torsional component of microsaccades during fixation and quick phases du
 collection: publications
 permalink: /publication/2020-10-10-TorsionalComponentOfMicrosaccadesDuringFixationAndQuickPhasesDu
 excerpt: 'ABSTRACT.'
-date: 10-Oct-20
+date: Oct 10, 2020
 venue: 'JEMR'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'a'
@@ -14,7 +14,7 @@ coloryear: 0,135,107,0.2
 
 By: Sadeghpour & Otero-Millan
 
-Citation: Sadeghpour & Otero-Millan (2020) Torsional component of microsaccades during fixation and quick phases during optokinetic stimulation. 
+Citation: Sadeghpour & Otero-Millan (2020) Torsional component of microsaccades during fixation and quick phases during optokinetic stimulation. Journal of Eye Movement Research, 135
 
 Abstract: 
 

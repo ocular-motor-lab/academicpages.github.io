@@ -3,7 +3,7 @@ title: "The impact of microsaccades on vision: towards a unified theory of sacca
 collection: publications
 permalink: /publication/2013-01-18-TheImpactOfMicrosaccadesOnVision_TowardsAUnifiedTheoryOfSaccadi
 excerpt: 'ABSTRACT.'
-date: 18-Jan-13
+date: Jan 18, 2013
 venue: 'Nat Rev Neurosci'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'a'
@@ -14,7 +14,7 @@ coloryear: 103,36,222,0.2
 
 By: Martinez-Conde, Otero-Millan & Macknik
 
-Citation: Martinez-Conde, Otero-Millan & Macknik (2020) The impact of microsaccades on vision: towards a unified theory of saccadic function.. 
+Citation: Martinez-Conde, Otero-Millan & Macknik (2020) The impact of microsaccades on vision: towards a unified theory of saccadic function.. Nat Rev Neurosci. 2013 Feb;142:83-96. 
 
 Abstract: 
 

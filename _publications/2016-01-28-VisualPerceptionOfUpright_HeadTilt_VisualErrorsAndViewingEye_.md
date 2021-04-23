@@ -3,7 +3,7 @@ title: "Visual perception of upright: Head tilt, visual errors and viewing eye."
 collection: publications
 permalink: /publication/2016-01-28-VisualPerceptionOfUpright_HeadTilt_VisualErrorsAndViewingEye_
 excerpt: 'ABSTRACT.'
-date: 28-Jan-16
+date: Jan 28, 2016
 venue: 'J Vestib Res'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'a'
@@ -14,7 +14,7 @@ coloryear: 155,154,151,0.4
 
 By: Kheradmand, Gonzalez, Otero-Millan & Lasker
 
-Citation: Kheradmand, Gonzalez, Otero-Millan & Lasker (2020) Visual perception of upright: Head tilt, visual errors and viewing eye.. 
+Citation: Kheradmand, Gonzalez, Otero-Millan & Lasker (2020) Visual perception of upright: Head tilt, visual errors and viewing eye.. J Vestib Res. 2016;255-6:201-9. 
 
 Abstract: 
 

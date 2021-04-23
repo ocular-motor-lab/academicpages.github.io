@@ -3,7 +3,7 @@ title: "Distinctive features of saccadic intrusions and microsaccades in progres
 collection: publications
 permalink: /publication/2011-03-23-DistinctiveFeaturesOfSaccadicIntrusionsAndMicrosaccadesInProgre
 excerpt: 'ABSTRACT.'
-date: 23-Mar-11
+date: Mar 23, 2011
 venue: 'J Neuroscience'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'a'
@@ -14,7 +14,7 @@ coloryear: 0,135,107,0.2
 
 By: Otero-Millan, Serra, Leigh, Troncoso, Macknik & Martinez-Conde
 
-Citation: Otero-Millan, Serra, Leigh, Troncoso, Macknik & Martinez-Conde (2020) Distinctive features of saccadic intrusions and microsaccades in progressive supranuclear palsy.. 
+Citation: Otero-Millan, Serra, Leigh, Troncoso, Macknik & Martinez-Conde (2020) Distinctive features of saccadic intrusions and microsaccades in progressive supranuclear palsy.. J Neurosci. 2011 Mar 23;3112:4379-87. 
 
 Abstract: 
 
