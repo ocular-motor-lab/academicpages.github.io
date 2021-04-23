@@ -27,6 +27,7 @@ for i=1:height(papers)
 
 title = strrep(papers.Title{i},'“','');
 title = strrep(title,'”','');
+title = strrep(title,'"','\"');
 
 citation = MarkdownScape(papers.Citation{i});
 
