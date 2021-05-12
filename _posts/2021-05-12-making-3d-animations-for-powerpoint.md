@@ -1,3 +1,13 @@
+---
+title: 'Making 3D animations for powerpoint'
+date: 2021-05-12
+permalink: /posts/2021/05/making-3d-animations-for-powerpoint/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
 # Making 3D animations for powerpoint
 
 Power has this nice feature where you can add animated 3D models to the presentation
