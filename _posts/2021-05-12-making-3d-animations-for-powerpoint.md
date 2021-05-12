@@ -3,22 +3,18 @@ title: 'Making 3D animations for powerpoint'
 date: 2021-05-12
 permalink: /posts/2021/05/making-3d-animations-for-powerpoint/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - 3D animation
 ---
 
-# Making 3D animations for powerpoint
+Powerpoint has this nice feature where you can add animated 3D models to the presentation
 
-Power has this nice feature where you can add animated 3D models to the presentation
+![2021-05-12-making-3d-animations-for-powerpoint/Untitled.png](2021-05-12-making-3d-animations-for-powerpoint/Untitled.png)
 
-![Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/Untitled.png](Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/Untitled.png)
-
-![Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/Untitled%201.png](Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/Untitled%201.png)
+![2021-05-12-making-3d-animations-for-powerpoint/Untitled%201.png](2021-05-12-making-3d-animations-for-powerpoint/Untitled%201.png)
 
 Some of this models have multiple "scenes" that show different animations. 
 
-![Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/Untitled%202.png](Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/Untitled%202.png)
+![2021-05-12-making-3d-animations-for-powerpoint/Untitled%202.png](2021-05-12-making-3d-animations-for-powerpoint/Untitled%202.png)
 
 To create your own 3D models with multiple scenes one option is to use Blender and export a GLTF file. 
 
@@ -34,37 +30,37 @@ To create your own 3D models with multiple scenes one option is to use Blender a
 5. Change to nonlinear animation
 6. Push Down Action to create a new track
 
-    ![Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/Untitled%203.png](Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/Untitled%203.png)
+    ![2021-05-12-making-3d-animations-for-powerpoint/Untitled%203.png](2021-05-12-making-3d-animations-for-powerpoint/Untitled%203.png)
 
-    ![Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/Untitled%204.png](Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/Untitled%204.png)
+    ![2021-05-12-making-3d-animations-for-powerpoint/Untitled%204.png](2021-05-12-making-3d-animations-for-powerpoint/Untitled%204.png)
 
 7. Move time cursor to beginning
 8. Unclick the track
 9. Repeat steps 3-8 for each new action
 
-    ![Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/Untitled%205.png](Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/Untitled%205.png)
+    ![2021-05-12-making-3d-animations-for-powerpoint/Untitled%205.png](2021-05-12-making-3d-animations-for-powerpoint/Untitled%205.png)
 
 10. Export as GLTF (GLB)
 
 ## Files
 
-[SimpleMultiSceneForPowerpoint.blend](Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/SimpleMultiSceneForPowerpoint.blend)
+[SimpleMultiSceneForPowerpoint.blend](2021-05-12-making-3d-animations-for-powerpoint/SimpleMultiSceneForPowerpoint.blend)
 
-[SimpleMultiSceneForPowerpoint.glb](Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/SimpleMultiSceneForPowerpoint.glb)
+[SimpleMultiSceneForPowerpoint.glb](2021-05-12-making-3d-animations-for-powerpoint/SimpleMultiSceneForPowerpoint.glb)
 
-[SimpleMultiSceneForPowerpoint.pptx](Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/SimpleMultiSceneForPowerpoint.pptx)
+[SimpleMultiSceneForPowerpoint.pptx](2021-05-12-making-3d-animations-for-powerpoint/SimpleMultiSceneForPowerpoint.pptx)
 
 This is what you will see in powerpoint
 
-![Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/Untitled%206.png](Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/Untitled%206.png)
+![2021-05-12-making-3d-animations-for-powerpoint/Untitled%206.png](2021-05-12-making-3d-animations-for-powerpoint/Untitled%206.png)
 
 ## Examples with eye movements:
 
-[Eye plane example animations.pptx](Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/Eye_plane_example_animations.pptx)
+[Eye plane example animations.pptx](2021-05-12-making-3d-animations-for-powerpoint/Eye_plane_example_animations.pptx)
 
-[SimpleEyeWithPlanes.blend](Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/SimpleEyeWithPlanes.blend)
+[SimpleEyeWithPlanes.blend](2021-05-12-making-3d-animations-for-powerpoint/SimpleEyeWithPlanes.blend)
 
-[test6.glb](Making%203D%20animations%20for%20powerpoint%207369c9cef9e7467ebc027a167ac5c5b1/test6.glb)
+[test6.glb](2021-05-12-making-3d-animations-for-powerpoint/test6.glb)
 
 ## References
 
