@@ -69,3 +69,17 @@ This is what you will see in powerpoint
 [https://www.youtube.com/watch?v=gstgT95I1Ww](https://www.youtube.com/watch?v=gstgT95I1Ww)
 
 [https://www.youtube.com/watch?v=ggWlDs-Pxo0&t=60s](https://www.youtube.com/watch?v=ggWlDs-Pxo0&t=60s)
+
+
+<model-viewer src="http://omlab.berkeley.edu/_posts\2021-05-12-making-3d-animations-for-powerpoint/SimpleEyeWithPlanes.glb" camera-controls autoplay animation-name="V">
+
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+    <div id="ar-prompt">
+        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+    </div>
+</model-viewer>
